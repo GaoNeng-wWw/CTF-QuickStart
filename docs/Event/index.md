@@ -356,13 +356,6 @@ hide:
                 **比赛时间** : 2024年05月01日 00:00 - 2024年05月02日 00:00  
                 **其他说明** : 比赛时间未定  
                 
-            ??? Quote "[第一届“长城杯”信息安全铁人三项赛初赛](http://ccb.itsec.gov.cn/)"  
-                **比赛名称** : [第一届“长城杯”信息安全铁人三项赛初赛](http://ccb.itsec.gov.cn/)  
-                **比赛类型** : 团队赛|1-4人  
-                **报名时间** : 2023年12月21日 00:00 - 2024年02月23日 18:00  
-                **比赛时间** : 2024年03月10日 09:00 - 2024年03月12日 18:00  
-                **其他说明** : 比赛时间2024年3月 未定  
-                
         === "国外赛事"
             ??? Quote "[Nullcon Berlin HackIM 2024 CTF](https://ctf.nullcon.net/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://ctf.nullcon.net/)  
@@ -735,7 +728,13 @@ hide:
                 
     === "*正在进行*"
         === "国内赛事"
-    
+            ??? Quote "[第一届“长城杯”信息安全铁人三项赛初赛](http://ccb.itsec.gov.cn/)"  
+                **比赛名称** : [第一届“长城杯”信息安全铁人三项赛初赛](http://ccb.itsec.gov.cn/)  
+                **比赛类型** : 团队赛|1-4人  
+                **报名时间** : 2023年12月21日 00:00 - 2024年02月23日 18:00  
+                **比赛时间** : 2024年03月10日 09:00 - 2024年03月12日 18:00  
+                **其他说明** : 比赛时间2024年3月 未定  
+                
         === "国外赛事"
             ??? Quote "[Sydbox CTF: read /etc/CTF](https://git.sr.ht/~alip/syd#ctf-howto-sydbx-capture-the-flag-challenge)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://git.sr.ht/~alip/syd#ctf-howto-sydbx-capture-the-flag-challenge)  
@@ -745,15 +744,6 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : Exherbo GNU/Linux (https://ctftime.org/team/275214)  
                 **添加日历** : https://ctftime.org/event/2178.ics  
-                
-            ??? Quote "[Pearl CTF](https://play.pearlctf.in/)"  
-                [![](https://ctftime.org/media/events/_croppearl_logo_1_of_1.png){ width="200" align=left }](https://play.pearlctf.in/)  
-                **比赛名称** : [Pearl CTF](https://play.pearlctf.in/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-03-08 20:00:00 - 2024-03-10 07:59:59 UTC+8  
-                **比赛权重** : 23.95  
-                **赛事主办** : BIT CRIMINALS (https://ctftime.org/team/151727)  
-                **添加日历** : https://ctftime.org/event/2231.ics  
                 
             ??? Quote "[WxMCTF 2024](https://ctf.mcpt.ca/contest/wxmctf)"  
                 [![](https://ctftime.org/media/events/Logo_thing_1.png){ width="200" align=left }](https://ctf.mcpt.ca/contest/wxmctf)  
@@ -942,6 +932,15 @@ hide:
                 **比赛权重** : 24.10  
                 **赛事主办** : TeamShakti (https://ctftime.org/team/61083)  
                 **添加日历** : https://ctftime.org/event/2268.ics  
+                
+            ??? Quote "[Pearl CTF](https://play.pearlctf.in/)"  
+                [![](https://ctftime.org/media/events/_croppearl_logo_1_of_1.png){ width="200" align=left }](https://play.pearlctf.in/)  
+                **比赛名称** : [Pearl CTF](https://play.pearlctf.in/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-03-08 20:00:00 - 2024-03-10 07:59:59 UTC+8  
+                **比赛权重** : 23.95  
+                **赛事主办** : BIT CRIMINALS (https://ctftime.org/team/151727)  
+                **添加日历** : https://ctftime.org/event/2231.ics  
                 
             ??? Quote "[AthackCTF 2024](https://www.athackctf.com/)"  
                 [![](https://ctftime.org/media/events/_hacklogo_v2_720.png){ width="200" align=left }](https://www.athackctf.com/)  
@@ -1815,15 +1814,6 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : OSCAR ZULU (https://ctftime.org/team/270624)  
                 **添加日历** : https://ctftime.org/event/2154.ics  
-                
-            ??? Quote "[M*CTF 2023 Junior Quals](https://mctf.mtuci.ru/)"  
-                [![](https://ctftime.org/media/events/GRuJspCP73s_1.jpg){ width="200" align=left }](https://mctf.mtuci.ru/)  
-                **比赛名称** : [M*CTF 2023 Junior Quals](https://mctf.mtuci.ru/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2023-11-04 17:00:00 - 2023-11-05 17:00:00 UTC+8  
-                **比赛权重** : 24.23  
-                **赛事主办** : BinaryBears (https://ctftime.org/team/36281)  
-                **添加日历** : https://ctftime.org/event/2095.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
