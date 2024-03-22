@@ -291,13 +291,6 @@ hide:
             **比赛时间** : 2024年04月03日 9:00 - 2024年04月03日 18:00  
             **其他说明** : 赛事交流QQ群：458469559 ；主办单位：数字中国建设峰会组委会 承办单位：福建省数字福建建设领导小组办公室 三明市人民政府  
             
-        ??? Quote "[NKCTF2024](https://n0wayback.com/nkctf2024.html)"  
-            **比赛名称** : [NKCTF2024](https://n0wayback.com/nkctf2024.html)  
-            **比赛类型** : 团队赛|1-4人  
-            **报名时间** : 2024年03月10日 10:00 - 2024年03月22日 18:00  
-            **比赛时间** : 2024年03月22日 19:00 - 2024年03月23日 19:00  
-            **其他说明** : QQ群：630246091  
-            
         ??? Quote "[aliyunCTF2024](https://www.aliyunctf.com/)"  
             **比赛名称** : [aliyunCTF2024](https://www.aliyunctf.com/)  
             **比赛类型** : 团队赛 | 人数暂定  
@@ -327,13 +320,6 @@ hide:
                 **报名时间** : 2024年03月11日 00:00 - 2024年03月31日 00:00  
                 **比赛时间** : 2024年04月03日 9:00 - 2024年04月03日 18:00  
                 **其他说明** : 赛事交流QQ群：458469559 ；主办单位：数字中国建设峰会组委会 承办单位：福建省数字福建建设领导小组办公室 三明市人民政府  
-                
-            ??? Quote "[NKCTF2024](https://n0wayback.com/nkctf2024.html)"  
-                **比赛名称** : [NKCTF2024](https://n0wayback.com/nkctf2024.html)  
-                **比赛类型** : 团队赛|1-4人  
-                **报名时间** : 2024年03月10日 10:00 - 2024年03月22日 18:00  
-                **比赛时间** : 2024年03月22日 19:00 - 2024年03月23日 19:00  
-                **其他说明** : QQ群：630246091  
                 
             ??? Quote "[aliyunCTF2024](https://www.aliyunctf.com/)"  
                 **比赛名称** : [aliyunCTF2024](https://www.aliyunctf.com/)  
@@ -746,7 +732,13 @@ hide:
                 
     === "*正在进行*"
         === "国内赛事"
-    
+            ??? Quote "[NKCTF2024](https://n0wayback.com/nkctf2024.html)"  
+                **比赛名称** : [NKCTF2024](https://n0wayback.com/nkctf2024.html)  
+                **比赛类型** : 团队赛|1-4人  
+                **报名时间** : 2024年03月10日 10:00 - 2024年03月22日 18:00  
+                **比赛时间** : 2024年03月22日 19:00 - 2024年03月23日 19:00  
+                **其他说明** : QQ群：630246091  
+                
         === "国外赛事"
             ??? Quote "[Sydbox CTF: read /etc/CTF](https://git.sr.ht/~alip/syd#ctf-howto-sydbx-capture-the-flag-challenge)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://git.sr.ht/~alip/syd#ctf-howto-sydbx-capture-the-flag-challenge)  
@@ -891,13 +883,6 @@ hide:
                 **报名时间** : 2023年12月28日 16:30 - 2024年01月17日 18:00  
                 **比赛时间** : 2024年01月27日 10:00 - 2024年01月28日 10:00  
                 **其他说明** : 选手交流群：612460086  
-                
-            ??? Quote "[春秋杯网络安全联赛冬季赛](https://endbm.ichunqiu.com/2023cqgames2)"  
-                **比赛名称** : [春秋杯网络安全联赛冬季赛](https://endbm.ichunqiu.com/2023cqgames2)  
-                **比赛类型** : 个人赛CTF+RDG  
-                **报名时间** : 2023年12月18日 00:00 - 2024年01月22日 17:00  
-                **比赛时间** : 2024年01月20日 10:00 - 2024年01月22日 18:00  
-                **其他说明** : 赛事QQ群：277328440  
                 
         === "国外赛事"
             ??? Quote "[Cyber Apocalypse 2024: Hacker Royale](https://ctf.hackthebox.com/event/details/cyber-apocalypse-2024-hacker-royale-1386)"  
