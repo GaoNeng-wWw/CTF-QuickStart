@@ -40,15 +40,6 @@ comments: true
     **赛事主办** : les amateurs (https://ctftime.org/team/166729)  
     **添加日历** : https://ctftime.org/event/2226.ics  
     
-??? Quote "[RITSEC CTF 2024](https://ctfd.ritsec.club/)"  
-    [![](https://ctftime.org/media/events/Ritsec-CTF-2024-r1.jpg){ width="200" align=left }](https://ctfd.ritsec.club/)  
-    **比赛名称** : [RITSEC CTF 2024](https://ctfd.ritsec.club/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-04-06 00:00:00 - 2024-04-08 00:00:00 UTC+8  
-    **比赛权重** : 26.98  
-    **赛事主办** : Contagion (https://ctftime.org/team/152691)  
-    **添加日历** : https://ctftime.org/event/2291.ics  
-    
 ??? Quote "[SwampCTF 2024](https://swampctf.com/)"  
     [![](https://ctftime.org/media/events/swampctf.png){ width="200" align=left }](https://swampctf.com/)  
     **比赛名称** : [SwampCTF 2024](https://swampctf.com/)  
@@ -84,13 +75,4 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : pony7 (https://ctftime.org/team/20769)  
     **添加日历** : https://ctftime.org/event/2269.ics  
-    
-??? Quote "[24@CTF](https://ctf.polycyber.io/)"  
-    [![](https://ctftime.org/media/events/Logo_24CTF_2024_1.png){ width="200" align=left }](https://ctf.polycyber.io/)  
-    **比赛名称** : [24@CTF](https://ctf.polycyber.io/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-04-06 23:30:00 - 2024-04-08 00:30:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : PolyCyber (https://ctftime.org/team/212241)  
-    **添加日历** : https://ctftime.org/event/2310.ics  
     
