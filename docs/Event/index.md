@@ -545,9 +545,9 @@ hide:
                 **赛事主办** : ECSC2024 (https://ctftime.org/team/283828)  
                 **添加日历** : https://ctftime.org/event/2356.ics  
                 
-            ??? Quote "[21ans LinuxMeetup au Québec](https://www.rencontres-linux.quebec/event/21-ans-de-linux-meetup-au-quebec-1/page/emplacement-21-ans-de-linux-meetup-au-quebec)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://www.rencontres-linux.quebec/event/21-ans-de-linux-meetup-au-quebec-1/page/emplacement-21-ans-de-linux-meetup-au-quebec)  
-                **比赛名称** : [21ans LinuxMeetup au Québec](https://www.rencontres-linux.quebec/event/21-ans-de-linux-meetup-au-quebec-1/page/emplacement-21-ans-de-linux-meetup-au-quebec)  
+            ??? Quote "[21ans LinuxMeetup au Québec](https://www.linuxver.site/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://www.linuxver.site/)  
+                **比赛名称** : [21ans LinuxMeetup au Québec](https://www.linuxver.site/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-09-21 21:30:00 - 2024-09-22 05:00:00 UTC+8  
                 **比赛权重** : 0.00  
@@ -953,7 +953,7 @@ hide:
                 **比赛名称** : [DASCTF 2024 Summer Challenge](https://buuoj.cn/match/matches/207)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-07-20 10:00:00 - 2024-07-20 18:00:00 UTC+8  
-                **比赛权重** : 0.00  
+                **比赛权重** : 20.00  
                 **赛事主办** : DASCTF (https://ctftime.org/team/303691)  
                 **添加日历** : https://ctftime.org/event/2429.ics  
                 
