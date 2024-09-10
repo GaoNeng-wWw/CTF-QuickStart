@@ -830,15 +830,6 @@ hide:
                 **赛事主办** : Exherbo GNU/Linux (https://ctftime.org/team/275214)  
                 **添加日历** : https://ctftime.org/event/2178.ics  
                 
-            ??? Quote "[Automotive CTF Japan 2024](https://vicone.com/jp/automotive-ctf)"  
-                [![](https://ctftime.org/media/events/7471ff863b474b2db4fdb2f0b8086302.png){ width="200" align=left }](https://vicone.com/jp/automotive-ctf)  
-                **比赛名称** : [Automotive CTF Japan 2024](https://vicone.com/jp/automotive-ctf)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-08-25 08:00:00 - 2024-09-10 07:59:59 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : VicOne Japan (https://ctftime.org/team/314349)  
-                **添加日历** : https://ctftime.org/event/2473.ics  
-                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[WMCTF 2024](https://wmctf.wm-team.cn/)"  
@@ -1049,6 +1040,15 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : CODEGATE (https://ctftime.org/team/39352)  
                 **添加日历** : https://ctftime.org/event/2347.ics  
+                
+            ??? Quote "[Automotive CTF Japan 2024](https://vicone.com/jp/automotive-ctf)"  
+                [![](https://ctftime.org/media/events/7471ff863b474b2db4fdb2f0b8086302.png){ width="200" align=left }](https://vicone.com/jp/automotive-ctf)  
+                **比赛名称** : [Automotive CTF Japan 2024](https://vicone.com/jp/automotive-ctf)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-08-25 08:00:00 - 2024-09-10 07:59:59 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : VicOne Japan (https://ctftime.org/team/314349)  
+                **添加日历** : https://ctftime.org/event/2473.ics  
                 
             ??? Quote "[Cygenix CTF](https://cygenixctf.ycfteam.in/)"  
                 [![](https://ctftime.org/media/events/cygenix.png){ width="200" align=left }](https://cygenixctf.ycfteam.in/)  
@@ -1823,15 +1823,6 @@ hide:
                 **比赛权重** : 77.38  
                 **赛事主办** : Nautilus Institute (https://ctftime.org/team/181536)  
                 **添加日历** : https://ctftime.org/event/2229.ics  
-                
-            ??? Quote "[LakeCTF Finals 23](https://lakectf.epfl.ch/)"  
-                [![](https://ctftime.org/media/events/lakeCTFLogo.png){ width="200" align=left }](https://lakectf.epfl.ch/)  
-                **比赛名称** : [LakeCTF Finals 23](https://lakectf.epfl.ch/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-05-03 16:00:00 - 2024-05-04 00:00:00 UTC+8  
-                **比赛权重** : 36.00  
-                **赛事主办** : polygl0ts (https://ctftime.org/team/53791)  
-                **添加日历** : https://ctftime.org/event/2246.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
