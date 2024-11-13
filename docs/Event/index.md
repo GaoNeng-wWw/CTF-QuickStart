@@ -295,15 +295,6 @@ hide:
                 **其他说明** : 蜀道山高校联合公益赛由西南民族大学、成都东软学院、成都信息工程大学、四川师范大学、成都理工大学D1no战队、西南石油大学、成都大学、西华师范大学、江西警察学院、哈尔滨理工大学、衡阳师范学院、宁波职业技术学院、浙江工商职业技术学院、山东警察学院、广东行政职业学院、四川大学、南京信息职业技术学院、聊城职业技术学院等高校联合主办。竞赛时间为2024年11月17日10:00至18:00，竞赛形式为Jeopardy，每队3人。  
                 
         === "国外赛事"
-            ??? Quote "[EKOPARTY CTF 2024](https://ctf.ekoparty.org/)"  
-                [![](https://ctftime.org/media/events/LOGO_eko_2024.png){ width="200" align=left }](https://ctf.ekoparty.org/)  
-                **比赛名称** : [EKOPARTY CTF 2024](https://ctf.ekoparty.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-11-13 21:00:00 - 2024-11-16 03:00:00 UTC+8  
-                **比赛权重** : 16.00  
-                **赛事主办** : NULL Life (https://ctftime.org/team/321)  
-                **添加日历** : https://ctftime.org/event/2507.ics  
-                
             ??? Quote "[BlockCTF 2024 (Formerly SquareCTF)](https://2024.blockctf.com/)"  
                 [![](https://ctftime.org/media/events/0ed304c3c4dcb6a3e887778f3928e26e.png){ width="200" align=left }](https://2024.blockctf.com/)  
                 **比赛名称** : [BlockCTF 2024 (Formerly SquareCTF)](https://2024.blockctf.com/)  
@@ -657,7 +648,20 @@ hide:
                 
     === "*正在进行*"
         === "国内赛事"
-    
+            ??? Quote "[ISCTF高校联合安全技能挑战赛](http://isctf2024.bluesharkinfo.com)"  
+                **比赛名称** : [ISCTF高校联合安全技能挑战赛](http://isctf2024.bluesharkinfo.com)  
+                **比赛类型** : 线上Jeopardy解题赛  
+                **报名时间** : 2024年11月09日 10:00 - 2024年11月15日 16:59  
+                **比赛时间** : 2024年11月09日 10:00 - 2024年11月15日 17:00  
+                **其他说明** : 第四届ISCTF高校联合安全技能挑战赛由福州蓝鲨信息技术有限公司和DK云赞助，由大理大学、信阳师范大学、福建师范大学主办，联合院校名单包括安徽工业经济职业技术学院、成都东软学院等32所高校的网络与信息安全协会联合主办。比赛时间为11月9日10:00至11月15日17:00，比赛平台为isctf2024.bluesharkinfo.com，目前已开放注册。  
+                
+            ??? Quote "[ISCTF高校联合安全技能挑战赛](http://isctf2024.bluesharkinfo.com)"  
+                **比赛名称** : [ISCTF高校联合安全技能挑战赛](http://isctf2024.bluesharkinfo.com)  
+                **比赛类型** : 线上Jeopardy解题赛  
+                **报名时间** : 2024年11月09日 10:00 - 2024年11月15日 16:59  
+                **比赛时间** : 2024年11月09日 10:00 - 2024年11月15日 17:00  
+                **其他说明** : 第四届ISCTF高校联合安全技能挑战赛由福州蓝鲨信息技术有限公司和DK云赞助，由大理大学、信阳师范大学、福建师范大学主办，联合院校名单包括安徽工业经济职业技术学院、成都东软学院等32所高校的网络与信息安全协会联合主办。比赛时间为11月9日10:00至11月15日17:00，比赛平台为isctf2024.bluesharkinfo.com，目前已开放注册。  
+                
         === "国外赛事"
             ??? Quote "[Sydbox CTF: read /etc/CTF](https://git.sr.ht/~alip/syd#ctf-howto-sydbx-capture-the-flag-challenge)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://git.sr.ht/~alip/syd#ctf-howto-sydbx-capture-the-flag-challenge)  
@@ -676,6 +680,15 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
                 **添加日历** : https://ctftime.org/event/2121.ics  
+                
+            ??? Quote "[EKOPARTY CTF 2024](https://ctf.ekoparty.org/)"  
+                [![](https://ctftime.org/media/events/LOGO_eko_2024.png){ width="200" align=left }](https://ctf.ekoparty.org/)  
+                **比赛名称** : [EKOPARTY CTF 2024](https://ctf.ekoparty.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-11-13 21:00:00 - 2024-11-16 03:00:00 UTC+8  
+                **比赛权重** : 16.00  
+                **赛事主办** : NULL Life (https://ctftime.org/team/321)  
+                **添加日历** : https://ctftime.org/event/2507.ics  
                 
     === "*已经结束*"
         === "国内赛事"
