@@ -536,15 +536,6 @@ hide:
                 **赛事主办** : Hack The Box (https://ctftime.org/team/136056)  
                 **添加日历** : https://ctftime.org/event/2539.ics  
                 
-            ??? Quote "[Russian CTF Cup 2024 Final](https://ctfcup.ru/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://ctfcup.ru/)  
-                **比赛名称** : [Russian CTF Cup 2024 Final](https://ctfcup.ru/)  
-                **比赛形式** : Attack-Defense  
-                **比赛时间** : 2024-12-14 18:00:00 - 2024-12-16 03:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : ctfcup (https://ctftime.org/team/203499)  
-                **添加日历** : https://ctftime.org/event/2406.ics  
-                
             ??? Quote "[NTUA_H4CK](https://ctfnhack.ctflib.eu/)"  
                 [![](https://ctftime.org/media/events/Copy_of_Untitled_Design1.png){ width="200" align=left }](https://ctfnhack.ctflib.eu/)  
                 **比赛名称** : [NTUA_H4CK](https://ctfnhack.ctflib.eu/)  
@@ -642,6 +633,15 @@ hide:
                 **比赛权重** : 75.00  
                 **赛事主办** : pwnthem0le (https://ctftime.org/team/60467)  
                 **添加日历** : https://ctftime.org/event/2578.ics  
+                
+            ??? Quote "[Russian CTF Cup 2024 Final](https://ctfcup.ru/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://ctfcup.ru/)  
+                **比赛名称** : [Russian CTF Cup 2024 Final](https://ctfcup.ru/)  
+                **比赛形式** : Attack-Defense  
+                **比赛时间** : 2024-12-14 18:00:00 - 2024-12-16 03:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : ctfcup (https://ctftime.org/team/203499)  
+                **添加日历** : https://ctftime.org/event/2406.ics  
                 
             ??? Quote "[TSG CTF 2024](https://ctf.tsg.ne.jp/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://ctf.tsg.ne.jp/)  
@@ -774,7 +774,7 @@ hide:
                 **比赛名称** : [World Wide CTF 2024](https://wwctf.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-11-30 20:00:00 - 2024-12-01 20:00:00 UTC+8  
-                **比赛权重** : 24.42  
+                **比赛权重** : 24.45  
                 **赛事主办** : World Wide Flags (https://ctftime.org/team/283853)  
                 **添加日历** : https://ctftime.org/event/2572.ics  
                 
@@ -1524,15 +1524,6 @@ hide:
                 **比赛权重** : 25.00  
                 **赛事主办** : SharLike (https://ctftime.org/team/16172)  
                 **添加日历** : https://ctftime.org/event/2376.ics  
-                
-            ??? Quote "[Hack Havoc 2.0](https://ctf.cybermaterial.com/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://ctf.cybermaterial.com/)  
-                **比赛名称** : [Hack Havoc 2.0](https://ctf.cybermaterial.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-10-04 21:59:48 - 2024-10-25 21:59:48 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : Hack Havoc (https://ctftime.org/team/316395)  
-                **添加日历** : https://ctftime.org/event/2532.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
