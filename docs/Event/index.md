@@ -365,6 +365,15 @@ hide:
                 **赛事主办** : Saiborg (https://ctftime.org/team/271868)  
                 **添加日历** : https://ctftime.org/event/2557.ics  
                 
+            ??? Quote "[KalmarCTF 2025](http://KalmarC.TF/)"  
+                [![](https://ctftime.org/media/events/kalmar-logo.png){ width="200" align=left }](http://KalmarC.TF/)  
+                **比赛名称** : [KalmarCTF 2025](http://KalmarC.TF/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-03-08 01:00:00 - 2025-03-10 01:00:00 UTC+8  
+                **比赛权重** : 33.89  
+                **赛事主办** : kalmarunionen (https://ctftime.org/team/114856)  
+                **添加日历** : https://ctftime.org/event/2599.ics  
+                
             ??? Quote "[@Hack 2025](https://athackctf.com/?s=ju8uvw)"  
                 [![](https://ctftime.org/media/events/Hack_Logo_WIDTH_600px.png){ width="200" align=left }](https://athackctf.com/?s=ju8uvw)  
                 **比赛名称** : [@Hack 2025](https://athackctf.com/?s=ju8uvw)  
@@ -551,7 +560,7 @@ hide:
                 **比赛名称** : [SUCTF 2025](https://suctf2025.xctf.org.cn/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-01-11 09:00:00 - 2025-01-13 09:00:00 UTC+8  
-                **比赛权重** : 24.50  
+                **比赛权重** : 24.60  
                 **赛事主办** : SU (https://ctftime.org/team/29641)  
                 **添加日历** : https://ctftime.org/event/2620.ics  
                 
