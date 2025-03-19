@@ -198,6 +198,15 @@ comments: true
     **赛事主办** : VolgaCTF.org (https://ctftime.org/team/27094)  
     **添加日历** : https://ctftime.org/event/2676.ics  
     
+??? Quote "[CodeVinci Beginner CTF 2025](https://codevincictf.itis.pr.it/)"  
+    [![](https://ctftime.org/media/events/logo_CodeVinci.jpg){ width="200" align=left }](https://codevincictf.itis.pr.it/)  
+    **比赛名称** : [CodeVinci Beginner CTF 2025](https://codevincictf.itis.pr.it/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-03-29 21:00:00 - 2025-03-29 21:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : CodeVincii (https://ctftime.org/team/367123)  
+    **添加日历** : https://ctftime.org/event/2738.ics  
+    
 ??? Quote "[JerseyCTF V](https://ctf.jerseyctf.com/)"  
     [![](https://ctftime.org/media/events/jctfv_hat_1.png){ width="200" align=left }](https://ctf.jerseyctf.com/)  
     **比赛名称** : [JerseyCTF V](https://ctf.jerseyctf.com/)  
@@ -422,6 +431,15 @@ comments: true
     **比赛权重** : 88.25  
     **赛事主办** : ASIS (https://ctftime.org/team/4140)  
     **添加日历** : https://ctftime.org/event/2577.ics  
+    
+??? Quote "[Google Capture The Flag 2025](https://g.co/ctf)"  
+    [![](https://ctftime.org){ width="200" align=left }](https://g.co/ctf)  
+    **比赛名称** : [Google Capture The Flag 2025](https://g.co/ctf)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-06-21 02:00:00 - 2025-06-23 02:00:00 UTC+8  
+    **比赛权重** : 97.17  
+    **赛事主办** : Google CTF (https://ctftime.org/team/23929)  
+    **添加日历** : https://ctftime.org/event/2718.ics  
     
 ??? Quote "[GMO Cybersecurity Contest - IERAE CTF 2025](https://gmo-cybersecurity.com/event/ieraectf25/)"  
     [![](https://ctftime.org){ width="200" align=left }](https://gmo-cybersecurity.com/event/ieraectf25/)  
