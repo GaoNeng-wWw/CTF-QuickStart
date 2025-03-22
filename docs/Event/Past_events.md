@@ -21,6 +21,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[ZeroDays CTF 2025](http://www.zerodays.ie/)"  
+    [![](https://ctftime.org/media/events/zerodays_logo.png){ width="200" align=left }](http://www.zerodays.ie/)  
+    **比赛名称** : [ZeroDays CTF 2025](http://www.zerodays.ie/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-03-22 17:30:00 - 2025-03-23 01:00:00 UTC+8  
+    **比赛权重** : 25.00  
+    **赛事主办** : Ireland without the RE (https://ctftime.org/team/179144)  
+    **添加日历** : https://ctftime.org/event/2614.ics  
+    
 ??? Quote "[DC509 CTF 2025](https://dc509.com/)"  
     [![](https://ctftime.org/media/events/dc509.png){ width="200" align=left }](https://dc509.com/)  
     **比赛名称** : [DC509 CTF 2025](https://dc509.com/)  
@@ -98,7 +107,7 @@ comments: true
     **比赛名称** : [Insomni'hack 2025](https://insomnihack.ch/contest/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-03-15 01:00:00 - 2025-03-15 12:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 24.08  
     **赛事主办** : Insomni'hack Team (https://ctftime.org/team/104742)  
     **添加日历** : https://ctftime.org/event/2634.ics  
     
@@ -449,7 +458,7 @@ comments: true
     **比赛名称** : [x3CTF 2025 (feat. mvm)](https://x3c.tf/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-01-25 02:00:00 - 2025-01-27 02:00:00 UTC+8  
-    **比赛权重** : 23.58  
+    **比赛权重** : 23.61  
     **赛事主办** : x3CTF (https://ctftime.org/team/309820)  
     **添加日历** : https://ctftime.org/event/2467.ics  
     
@@ -911,13 +920,4 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : Shellphish (https://ctftime.org/team/285)  
     **添加日历** : https://ctftime.org/event/2565.ics  
-    
-??? Quote "[iCTF 2024 (Highschool)](https://ictf.cs.ucsb.edu/)"  
-    [![](https://ctftime.org){ width="200" align=left }](https://ictf.cs.ucsb.edu/)  
-    **比赛名称** : [iCTF 2024 (Highschool)](https://ictf.cs.ucsb.edu/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-11-17 02:00:00 - 2024-11-23 08:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : Shellphish (https://ctftime.org/team/285)  
-    **添加日历** : https://ctftime.org/event/2566.ics  
     
