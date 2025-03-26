@@ -27,21 +27,3 @@ comments: true
     **赛事主办** : NFITS (https://ctftime.org/team/360674)  
     **添加日历** : https://ctftime.org/event/2588.ics  
     
-??? Quote "[Cyber Apocalypse CTF 2025: Tales from Eldoria](https://ctf.hackthebox.com/event/details/cyber-apocalypse-ctf-2025-tales-from-eldoria-2107)"  
-    [![](https://ctftime.org){ width="200" align=left }](https://ctf.hackthebox.com/event/details/cyber-apocalypse-ctf-2025-tales-from-eldoria-2107)  
-    **比赛名称** : [Cyber Apocalypse CTF 2025: Tales from Eldoria](https://ctf.hackthebox.com/event/details/cyber-apocalypse-ctf-2025-tales-from-eldoria-2107)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-03-21 21:00:00 - 2025-03-26 20:59:00 UTC+8  
-    **比赛权重** : 24.00  
-    **赛事主办** : Hack The Box (https://ctftime.org/team/136056)  
-    **添加日历** : https://ctftime.org/event/2674.ics  
-    
-??? Quote "[HICAThon 1.0](https://hicathon01.xyz/)"  
-    [![](https://ctftime.org/media/events/Frame_4034.png){ width="200" align=left }](https://hicathon01.xyz/)  
-    **比赛名称** : [HICAThon 1.0](https://hicathon01.xyz/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-03-25 11:00:00 - 2025-03-26 20:30:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : HICA SSPU (https://ctftime.org/team/372831)  
-    **添加日历** : https://ctftime.org/event/2724.ics  
-    

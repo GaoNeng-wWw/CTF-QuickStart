@@ -28,6 +28,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[HICAThon 1.0](https://hicathon01.xyz/)"  
+    [![](https://ctftime.org/media/events/Frame_4034.png){ width="200" align=left }](https://hicathon01.xyz/)  
+    **比赛名称** : [HICAThon 1.0](https://hicathon01.xyz/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-03-25 11:00:00 - 2025-03-26 20:30:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : HICA SSPU (https://ctftime.org/team/372831)  
+    **添加日历** : https://ctftime.org/event/2724.ics  
+    
 ??? Quote "[AlpacaHack Round 10 (Pwn)](https://alpacahack.com/ctfs/round-10)"  
     [![](https://ctftime.org/media/events/ctftime_9.png){ width="200" align=left }](https://alpacahack.com/ctfs/round-10)  
     **比赛名称** : [AlpacaHack Round 10 (Pwn)](https://alpacahack.com/ctfs/round-10)  
@@ -90,6 +99,15 @@ comments: true
     **比赛权重** : 32.50  
     **赛事主办** : pingCTF (https://ctftime.org/team/147266)  
     **添加日历** : https://ctftime.org/event/2670.ics  
+    
+??? Quote "[Cyber Apocalypse CTF 2025: Tales from Eldoria](https://ctf.hackthebox.com/event/details/cyber-apocalypse-ctf-2025-tales-from-eldoria-2107)"  
+    [![](https://ctftime.org){ width="200" align=left }](https://ctf.hackthebox.com/event/details/cyber-apocalypse-ctf-2025-tales-from-eldoria-2107)  
+    **比赛名称** : [Cyber Apocalypse CTF 2025: Tales from Eldoria](https://ctf.hackthebox.com/event/details/cyber-apocalypse-ctf-2025-tales-from-eldoria-2107)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-03-21 21:00:00 - 2025-03-26 20:59:00 UTC+8  
+    **比赛权重** : 24.00  
+    **赛事主办** : Hack The Box (https://ctftime.org/team/136056)  
+    **添加日历** : https://ctftime.org/event/2674.ics  
     
 ??? Quote "[DC509 CTF 2025](https://dc509.com/)"  
     [![](https://ctftime.org/media/events/dc509.png){ width="200" align=left }](https://dc509.com/)  
@@ -909,22 +927,4 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : AlpacaHack (https://ctftime.org/team/312315)  
     **添加日历** : https://ctftime.org/event/2544.ics  
-    
-??? Quote "[BlackHat MEA CTF Final 2024](https://blackhatmea.com/capture-the-flag)"  
-    [![](https://ctftime.org/media/events/e0c283c95f7b0db516dae505d31ca20b_3.jpg){ width="200" align=left }](https://blackhatmea.com/capture-the-flag)  
-    **比赛名称** : [BlackHat MEA CTF Final 2024](https://blackhatmea.com/capture-the-flag)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-11-26 16:00:00 - 2024-11-28 11:00:00 UTC+8  
-    **比赛权重** : 22.50  
-    **赛事主办** : SAFCSP (https://ctftime.org/team/54707)  
-    **添加日历** : https://ctftime.org/event/2431.ics  
-    
-??? Quote "[CTFZone 2024 Final](http://ctf.bi.zone/)"  
-    [![](https://ctftime.org/media/events/aa86f826480a008ed91d88a917a0c33b.png){ width="200" align=left }](http://ctf.bi.zone/)  
-    **比赛名称** : [CTFZone 2024 Final](http://ctf.bi.zone/)  
-    **比赛形式** : Attack-Defense  
-    **比赛时间** : 2024-11-24 17:00:00 - 2024-11-25 01:00:00 UTC+8  
-    **比赛权重** : 96.90  
-    **赛事主办** : BIZone (https://ctftime.org/team/32190)  
-    **添加日历** : https://ctftime.org/event/2506.ics  
     
