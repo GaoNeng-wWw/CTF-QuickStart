@@ -309,15 +309,6 @@ hide:
                 **其他说明** : 2025年能源网络安全大赛由中国能源研究会主办，面向电网企业、发电及电力建设企业、石油石化企业、煤炭企业等单位网络安全技术、运维和管理人员，以及国内网络安全领域知名高校、科研机构、产业单位等代表。报名截止日期为2025年3月31日，可通过扫描二维码下载报名表并发送至icc@cers.org.cn邮箱。联系人包括屈庆红、李理和陈炜，可通过电话或邮箱进行咨询。  
                 
         === "国外赛事"
-            ??? Quote "[Capture Point 5353 3.0](https://iiitv.capturepoint5353.tech/)"  
-                [![](https://ctftime.org/media/events/Untitled_design_2.png){ width="200" align=left }](https://iiitv.capturepoint5353.tech/)  
-                **比赛名称** : [Capture Point 5353 3.0](https://iiitv.capturepoint5353.tech/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-03-31 02:00:00 - 2025-04-01 16:10:29 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : HORIZON_03 (https://ctftime.org/team/375436)  
-                **添加日历** : https://ctftime.org/event/2747.ics  
-                
             ??? Quote "[PlaidCTF 2025](https://plaidctf.com/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://plaidctf.com/)  
                 **比赛名称** : [PlaidCTF 2025](https://plaidctf.com/)  
@@ -952,14 +943,14 @@ hide:
                 **赛事主办** : PolyCyber (https://ctftime.org/team/212241)  
                 **添加日历** : https://ctftime.org/event/2734.ics  
                 
-            ??? Quote "[JerseyCTF V](https://ctf.jerseyctf.com/)"  
-                [![](https://ctftime.org/media/events/jctfv_hat_1.png){ width="200" align=left }](https://ctf.jerseyctf.com/)  
-                **比赛名称** : [JerseyCTF V](https://ctf.jerseyctf.com/)  
+            ??? Quote "[Capture Point 5353 3.0](https://iiitv.capturepoint5353.tech/)"  
+                [![](https://ctftime.org/media/events/Untitled_design_2.png){ width="200" align=left }](https://iiitv.capturepoint5353.tech/)  
+                **比赛名称** : [Capture Point 5353 3.0](https://iiitv.capturepoint5353.tech/)  
                 **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-03-30 03:00:00 - 2025-03-31 03:00:00 UTC+8  
-                **比赛权重** : 24.73  
-                **赛事主办** : Highlander Hackers (https://ctftime.org/team/173925)  
-                **添加日历** : https://ctftime.org/event/2667.ics  
+                **比赛时间** : 2025-03-31 02:00:00 - 2025-04-01 16:10:29 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : HORIZON_03 (https://ctftime.org/team/375436)  
+                **添加日历** : https://ctftime.org/event/2747.ics  
                 
     === "*已经结束*"
         === "国内赛事"
@@ -985,6 +976,15 @@ hide:
                 **其他说明** : VNCTF 2025由V&N Team主办，个人赛，可报名，即将开始，中途可加入。报名开始时间为2025年01月01日 00:00，比赛时间为2025年02月08日 10:00至2025年02月09日 10:00。更多信息请加QQ群717513199。  
                 
         === "国外赛事"
+            ??? Quote "[JerseyCTF V](https://ctf.jerseyctf.com/)"  
+                [![](https://ctftime.org/media/events/jctfv_hat_1.png){ width="200" align=left }](https://ctf.jerseyctf.com/)  
+                **比赛名称** : [JerseyCTF V](https://ctf.jerseyctf.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-03-30 03:00:00 - 2025-03-31 03:00:00 UTC+8  
+                **比赛权重** : 24.73  
+                **赛事主办** : Highlander Hackers (https://ctftime.org/team/173925)  
+                **添加日历** : https://ctftime.org/event/2667.ics  
+                
             ??? Quote "[CodeVinci Beginner CTF 2025](https://codevincictf.itis.pr.it/)"  
                 [![](https://ctftime.org/media/events/logo_CodeVinci.jpg){ width="200" align=left }](https://codevincictf.itis.pr.it/)  
                 **比赛名称** : [CodeVinci Beginner CTF 2025](https://codevincictf.itis.pr.it/)  
@@ -1143,7 +1143,7 @@ hide:
                 **比赛名称** : [WHY2025 CTF Teaser](https://ctf.why2025.org/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-03-22 03:00:00 - 2025-03-24 03:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 0.00  
                 **赛事主办** : Eindbazen (https://ctftime.org/team/322)  
                 **添加日历** : https://ctftime.org/event/2679.ics  
                 
@@ -1875,15 +1875,6 @@ hide:
                 **比赛权重** : 24.75  
                 **赛事主办** : Platypwnies (https://ctftime.org/team/112550)  
                 **添加日历** : https://ctftime.org/event/2407.ics  
-                
-            ??? Quote "[RedShift.Eclipse 2 Finals]()"  
-                [![](https://ctftime.org/media/events/5202034882946130981.jpg){ width="200" align=left }]()  
-                **比赛名称** : [RedShift.Eclipse 2 Finals]()  
-                **比赛形式** : Attack-Defense  
-                **比赛时间** : 2024-12-07 18:00:00 - 2024-12-08 03:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : o1d_bu7_go1d (https://ctftime.org/team/213673)  
-                **添加日历** : https://ctftime.org/event/2538.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
