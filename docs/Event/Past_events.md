@@ -28,6 +28,24 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[Auvergn'Hack](https://ctf.zitf.fr/)"  
+    [![](https://ctftime.org/media/events/gorilla_auvergnhack3.jpg){ width="200" align=left }](https://ctf.zitf.fr/)  
+    **比赛名称** : [Auvergn'Hack](https://ctf.zitf.fr/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-04-05 20:45:00 - 2025-04-06 03:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : ZiTF (https://ctftime.org/team/376047)  
+    **添加日历** : https://ctftime.org/event/2752.ics  
+    
+??? Quote "[Moscow CTF School 2025](http://ctf.cs.msu.ru/)"  
+    [![](https://ctftime.org){ width="200" align=left }](http://ctf.cs.msu.ru/)  
+    **比赛名称** : [Moscow CTF School 2025](http://ctf.cs.msu.ru/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-04-05 18:00:00 - 2025-04-06 02:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : Bushwhackers (https://ctftime.org/team/586)  
+    **添加日历** : https://ctftime.org/event/2712.ics  
+    
 ??? Quote "[Capture Point 5353 3.0](https://iiitv.capturepoint5353.tech/)"  
     [![](https://ctftime.org/media/events/Untitled_design_2.png){ width="200" align=left }](https://iiitv.capturepoint5353.tech/)  
     **比赛名称** : [Capture Point 5353 3.0](https://iiitv.capturepoint5353.tech/)  
@@ -909,22 +927,4 @@ comments: true
     **比赛权重** : 25.00  
     **赛事主办** : TSG (https://ctftime.org/team/16088)  
     **添加日历** : https://ctftime.org/event/2424.ics  
-    
-??? Quote "[THJCC CTF 2024 winter](https://ctf.scint.org/)"  
-    [![](https://ctftime.org/media/events/THJCC_logo.png){ width="200" align=left }](https://ctf.scint.org/)  
-    **比赛名称** : [THJCC CTF 2024 winter](https://ctf.scint.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-12-14 08:00:01 - 2024-12-15 20:00:01 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : CakeisTheFake (https://ctftime.org/team/276544)  
-    **添加日历** : https://ctftime.org/event/2581.ics  
-    
-??? Quote "[HTB University CTF 2024: Binary Badlands](https://ctf.hackthebox.com/event/details/university-ctf-2024-binary-badlands-1822)"  
-    [![](https://ctftime.org/media/events/htbctf-logo_1.png){ width="200" align=left }](https://ctf.hackthebox.com/event/details/university-ctf-2024-binary-badlands-1822)  
-    **比赛名称** : [HTB University CTF 2024: Binary Badlands](https://ctf.hackthebox.com/event/details/university-ctf-2024-binary-badlands-1822)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-12-13 21:00:00 - 2024-12-16 05:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : Hack The Box (https://ctftime.org/team/136056)  
-    **添加日历** : https://ctftime.org/event/2539.ics  
     
