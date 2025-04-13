@@ -5,6 +5,13 @@ comments: true
 
 ## 国内赛事
 
+??? Quote "商丘师范学院第四届网络安全及信息对抗大赛（公开赛道）"  
+    **比赛名称** : [商丘师范学院第四届网络安全及信息对抗大赛（公开赛道）](www.qsnctf.com)  
+    **比赛类型** : 线上Jeopardy解题赛  
+    **报名时间** : 2025年04月01日 00:00 - 2025年04月07日 09:59  
+    **比赛时间** : 2025年04月07日 10:00 - 2025年04月13日 17:00  
+    **其他说明** : 商丘师范学院第四届网络安全及信息对抗大赛（公开赛道）是一个由商丘师范学院主办的线上个人赛。报名开始时间为2025年04月01日 00:00，报名结束时间为2025年04月07日 09:59。比赛时间为2025年04月07日 10:00至2025年04月13日 17:00。更多信息请访问比赛官网www.qsnctf.com，或加入QQ群1021827215进行咨询。比赛设有证书和周边奖励。  
+    
 ??? Quote "XYCTF 2025"  
     **比赛名称** : [XYCTF 2025](xyctf.top)  
     **比赛类型** : 线上Jeopardy解题赛  
@@ -43,6 +50,15 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : PHREAKS 2600 (https://ctftime.org/team/200877)  
     **添加日历** : https://ctftime.org/event/2659.ics  
+    
+??? Quote "[THCon 2K25 CTF](https://thcon.party/)"  
+    [![](https://ctftime.org/media/events/Sans_titre.ico){ width="200" align=left }](https://thcon.party/)  
+    **比赛名称** : [THCon 2K25 CTF](https://thcon.party/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-04-12 16:00:00 - 2025-04-13 16:00:00 UTC+8  
+    **比赛权重** : 23.65  
+    **赛事主办** : FirewallFoxes, pony7 (https://ctftime.org/team/278913, https://ctftime.org/team/20769)  
+    **添加日历** : https://ctftime.org/event/2660.ics  
     
 ??? Quote "[1753CTF 2025](https://1753ctf.com/)"  
     [![](https://ctftime.org/media/events/badge_1.png){ width="200" align=left }](https://1753ctf.com/)  
@@ -925,13 +941,4 @@ comments: true
     **比赛权重** : 98.14  
     **赛事主办** : hxp (https://ctftime.org/team/585)  
     **添加日历** : https://ctftime.org/event/2437.ics  
-    
-??? Quote "[Wargames.MY CTF 2024](https://ctf2024.wargames.my/)"  
-    [![](https://ctftime.org/media/events/WGMY24-PFP1.png){ width="200" align=left }](https://ctf2024.wargames.my/)  
-    **比赛名称** : [Wargames.MY CTF 2024](https://ctf2024.wargames.my/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-12-28 00:00:00 - 2024-12-29 00:00:00 UTC+8  
-    **比赛权重** : 25.00  
-    **赛事主办** : Wargames.MY (https://ctftime.org/team/86069)  
-    **添加日历** : https://ctftime.org/event/2597.ics  
     

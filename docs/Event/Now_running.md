@@ -12,13 +12,6 @@ comments: true
     **比赛时间** : 2025年04月12日 09:00 - 2025年04月13日 21:00  
     **其他说明** : TGCTF 2025（杭州师范大学第六届网络与信息安全竞赛）由杭州师范大学主办，报名截止时间为2025年4月11日21点，比赛时间为4月12号9点至4月13号21点，共36小时。  
     
-??? Quote "商丘师范学院第四届网络安全及信息对抗大赛（公开赛道）"  
-    **比赛名称** : [商丘师范学院第四届网络安全及信息对抗大赛（公开赛道）](www.qsnctf.com)  
-    **比赛类型** : 线上Jeopardy解题赛  
-    **报名时间** : 2025年04月01日 00:00 - 2025年04月07日 09:59  
-    **比赛时间** : 2025年04月07日 10:00 - 2025年04月13日 17:00  
-    **其他说明** : 商丘师范学院第四届网络安全及信息对抗大赛（公开赛道）是一个由商丘师范学院主办的线上个人赛。报名开始时间为2025年04月01日 00:00，报名结束时间为2025年04月07日 09:59。比赛时间为2025年04月07日 10:00至2025年04月13日 17:00。更多信息请访问比赛官网www.qsnctf.com，或加入QQ群1021827215进行咨询。比赛设有证书和周边奖励。  
-    
 ??? Quote "2025年能源网络安全大赛"  
     **比赛名称** : [2025年能源网络安全大赛](https://www.cers.org.cn/site/content/883b36f00aff466fa37efcef0c074915.html)  
     **比赛类型** : 线上Jeopardy解题赛  
@@ -64,15 +57,6 @@ comments: true
     **比赛权重** : 69.44  
     **赛事主办** : Nautilus Institute (https://ctftime.org/team/181536)  
     **添加日历** : https://ctftime.org/event/2604.ics  
-    
-??? Quote "[THCon 2K25 CTF](https://thcon.party/)"  
-    [![](https://ctftime.org/media/events/Sans_titre.ico){ width="200" align=left }](https://thcon.party/)  
-    **比赛名称** : [THCon 2K25 CTF](https://thcon.party/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-04-12 16:00:00 - 2025-04-13 16:00:00 UTC+8  
-    **比赛权重** : 23.65  
-    **赛事主办** : FirewallFoxes, pony7 (https://ctftime.org/team/278913, https://ctftime.org/team/20769)  
-    **添加日历** : https://ctftime.org/event/2660.ics  
     
 ??? Quote "[Midnight Flag CTF - INSURRECTION](https://midnightflag.fr/)"  
     [![](https://ctftime.org/media/events/logo-midnightflag_500.png){ width="200" align=left }](https://midnightflag.fr/)  
