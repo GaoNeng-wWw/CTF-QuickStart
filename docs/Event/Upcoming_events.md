@@ -91,7 +91,7 @@ comments: true
     **添加日历** : https://ctftime.org/event/2568.ics  
     
 ??? Quote "[Break the Syntax CTF 2025](https://bts2025.wh.edu.pl/)"  
-    [![](https://ctftime.org/media/events/logo_99_1.png){ width="200" align=left }](https://bts2025.wh.edu.pl/)  
+    [![](https://ctftime.org/media/events/btslogo.png){ width="200" align=left }](https://bts2025.wh.edu.pl/)  
     **比赛名称** : [Break the Syntax CTF 2025](https://bts2025.wh.edu.pl/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-05-10 00:00:00 - 2025-05-11 18:00:00 UTC+8  
@@ -112,7 +112,7 @@ comments: true
     [![](https://ctftime.org/media/events/b6f4bd9df7efba86c9b2d4eea9f8bc74.png){ width="200" align=left }](http://2025.justctf.team/)  
     **比赛名称** : [justCTF 2025 teaser](http://2025.justctf.team/)  
     **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-05-10 17:00:00 - 2025-05-11 17:00:00 UTC+8  
+    **比赛时间** : 2025-05-10 14:00:00 - 2025-05-12 03:00:00 UTC+8  
     **比赛权重** : 97.20  
     **赛事主办** : justCatTheFish (https://ctftime.org/team/33893)  
     **添加日历** : https://ctftime.org/event/2711.ics  
