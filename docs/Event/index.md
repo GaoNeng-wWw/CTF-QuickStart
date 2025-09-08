@@ -722,15 +722,7 @@ hide:
                 **其他说明** : MoeCTF 2025 是由西安电子科技大学主办的线上Jeopardy解题赛，报名开始时间为2025年8月2日00:00，报名结束时间为2025年10月9日17:00，比赛开始时间为2025年8月9日09:00，比赛结束时间为2025年10月9日17:00。更多信息请加入QQ群1014114928。  
                 
         === "国外赛事"
-            ??? Quote "[BlackHat MEA CTF Qualification 2025](https://blackhatmea.com/capture-the-flag)"  
-                [![](https://ctftime.org/media/events/e0c283c95f7b0db516dae505d31ca20b_2_1.jpg){ width="200" align=left }](https://blackhatmea.com/capture-the-flag)  
-                **比赛名称** : [BlackHat MEA CTF Qualification 2025](https://blackhatmea.com/capture-the-flag)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-09-07 18:00:00 - 2025-09-08 18:00:00 UTC+8  
-                **比赛权重** : 25.83  
-                **赛事主办** : SAFCSP (https://ctftime.org/team/54707)  
-                **添加日历** : https://ctftime.org/event/2876.ics  
-                
+    
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[极客少年挑战赛](URL)"  
@@ -741,6 +733,15 @@ hide:
                 **其他说明** : 第五届极客少年挑战赛将于2025年8月29日10:00至16:00举行，报名从2025年6月3日00:00开始至2025年7月10日23:59结束。单人线下赛，更多信息请加入QQ群1045833929。  
                 
         === "国外赛事"
+            ??? Quote "[BlackHat MEA CTF Qualification 2025](https://blackhatmea.com/capture-the-flag)"  
+                [![](https://ctftime.org/media/events/e0c283c95f7b0db516dae505d31ca20b_2_1.jpg){ width="200" align=left }](https://blackhatmea.com/capture-the-flag)  
+                **比赛名称** : [BlackHat MEA CTF Qualification 2025](https://blackhatmea.com/capture-the-flag)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-09-07 18:00:00 - 2025-09-08 18:00:00 UTC+8  
+                **比赛权重** : 25.83  
+                **赛事主办** : SAFCSP (https://ctftime.org/team/54707)  
+                **添加日历** : https://ctftime.org/event/2876.ics  
+                
             ??? Quote "[ASIS CTF Quals 2025](https://asisctf.com/)"  
                 [![](https://ctftime.org/media/events/asisctf_1.jpg){ width="200" align=left }](https://asisctf.com/)  
                 **比赛名称** : [ASIS CTF Quals 2025](https://asisctf.com/)  
@@ -809,7 +810,7 @@ hide:
                 **比赛名称** : [h4ckc0n 2025](https://h4ckc0n.d4rkc0de.in/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-08-29 23:00:00 - 2025-08-30 23:00:00 UTC+8  
-                **比赛权重** : 35.36  
+                **比赛权重** : 35.42  
                 **赛事主办** : d4rkc0de (https://ctftime.org/team/15154)  
                 **添加日历** : https://ctftime.org/event/2905.ics  
                 
@@ -827,7 +828,7 @@ hide:
                 **比赛名称** : [Full Weak Engineer CTF 2025](https://ctf.fwectf.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-08-29 18:00:00 - 2025-08-31 18:00:00 UTC+8  
-                **比赛权重** : 24.45  
+                **比赛权重** : 24.48  
                 **赛事主办** : full_weak_engineer (https://ctftime.org/team/305489)  
                 **添加日历** : https://ctftime.org/event/2864.ics  
                 
@@ -1631,15 +1632,6 @@ hide:
                 **比赛权重** : 60.67  
                 **赛事主办** : OSUSEC (https://ctftime.org/team/12858)  
                 **添加日历** : https://ctftime.org/event/2585.ics  
-                
-            ??? Quote "[San Diego CTF 2025](https://ctf.sdc.tf/)"  
-                [![](https://ctftime.org/media/events/sdctf_1.png){ width="200" align=left }](https://ctf.sdc.tf/)  
-                **比赛名称** : [San Diego CTF 2025](https://ctf.sdc.tf/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-05-10 07:00:00 - 2025-05-12 07:00:00 UTC+8  
-                **比赛权重** : 22.18  
-                **赛事主办** : 3 Prongs And a Computer (https://ctftime.org/team/112558)  
-                **添加日历** : https://ctftime.org/event/2785.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
