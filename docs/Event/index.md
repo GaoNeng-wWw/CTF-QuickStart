@@ -289,15 +289,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[PatriotCTF 2025](http://pctf.competitivecyber.club/)"  
-                [![](https://ctftime.org/media/events/71044796c6f64e9996d2077fd0b64c4c.jpg){ width="200" align=left }](http://pctf.competitivecyber.club/)  
-                **比赛名称** : [PatriotCTF 2025](http://pctf.competitivecyber.club/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-11-22 02:00:00 - 2025-11-24 02:00:00 UTC+8  
-                **比赛权重** : 42.42  
-                **赛事主办** : Competitive Cyber at Mason (https://ctftime.org/team/176906)  
-                **添加日历** : https://ctftime.org/event/2850.ics  
-                
             ??? Quote "[sknbCTF 2025](http://ctf.sknb.team/)"  
                 [![](https://ctftime.org/media/events/sknb_logo.png){ width="200" align=left }](http://ctf.sknb.team/)  
                 **比赛名称** : [sknbCTF 2025](http://ctf.sknb.team/)  
@@ -662,6 +653,15 @@ hide:
                 **赛事主办** : MadrHacks (https://ctftime.org/team/114509)  
                 **添加日历** : https://ctftime.org/event/2994.ics  
                 
+            ??? Quote "[PatriotCTF 2025](http://pctf.competitivecyber.club/)"  
+                [![](https://ctftime.org/media/events/71044796c6f64e9996d2077fd0b64c4c.jpg){ width="200" align=left }](http://pctf.competitivecyber.club/)  
+                **比赛名称** : [PatriotCTF 2025](http://pctf.competitivecyber.club/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-11-22 02:00:00 - 2025-11-24 02:00:00 UTC+8  
+                **比赛权重** : 42.42  
+                **赛事主办** : Competitive Cyber at Mason (https://ctftime.org/team/176906)  
+                **添加日历** : https://ctftime.org/event/2850.ics  
+                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[MoeCTF 2025](https://ctf.xidian.edu.cn/games/22)"  
@@ -929,7 +929,7 @@ hide:
                 **比赛名称** : [V1t CTF 2025](https://ctf.v1t.site/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-10-31 21:00:00 - 2025-11-02 21:00:00 UTC+8  
-                **比赛权重** : 21.78  
+                **比赛权重** : 21.93  
                 **赛事主办** : V1t (https://ctftime.org/team/280950)  
                 **添加日历** : https://ctftime.org/event/2920.ics  
                 
@@ -1019,7 +1019,7 @@ hide:
                 **比赛名称** : [osu!gaming CTF 2025](https://osugaming.sekai.team/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-10-25 10:00:00 - 2025-10-27 10:00:00 UTC+8  
-                **比赛权重** : 21.82  
+                **比赛权重** : 21.87  
                 **赛事主办** : osu!gaming (https://ctftime.org/team/186954)  
                 **添加日历** : https://ctftime.org/event/2801.ics  
                 
