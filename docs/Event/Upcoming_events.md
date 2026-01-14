@@ -5,6 +5,13 @@ comments: true
 
 ## 国内赛事
 
+??? Quote "UniCTF"  
+    **比赛名称** : [UniCTF](https://unictf.play.ctfplus.cn/)  
+    **比赛类型** : 线上Jeopardy解题赛  
+    **报名时间** : 2026年01月09日 10:09 - 2026年01月25日 09:59  
+    **比赛时间** : 2026年01月25日 10:00 - 2026年01月31日 10:00  
+    **其他说明** : 4人一组团队赛，需先在CTFPlus比赛大厅报名（https://www.ctfplus.cn）；奖项含社会赛道与新生赛道奖金及证书，单方向额外奖励。  
+    
 ??? Quote "HGAME 2026"  
     **比赛名称** : [HGAME 2026](https://hgame.vidar.club/)  
     **比赛类型** : 线上Jeopardy解题赛  
@@ -22,42 +29,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[Scarlet CTF](http://ctf.rusec.club/)"  
-    [![](https://ctftime.org/media/events/8ed561b45f892df2a5b105e8537794b3_1.jpg){ width="200" align=left }](http://ctf.rusec.club/)  
-    **比赛名称** : [Scarlet CTF](http://ctf.rusec.club/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-01-09 08:00:00 - 2026-01-12 08:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : HolyC (https://ctftime.org/team/226444)  
-    **添加日历** : https://ctftime.org/event/2981.ics  
-    
-??? Quote "[UofTCTF 2026](https://ctf.uoftctf.org/)"  
-    [![](https://ctftime.org/media/events/uoftctf_logo_3000_black_1.png){ width="200" align=left }](https://ctf.uoftctf.org/)  
-    **比赛名称** : [UofTCTF 2026](https://ctf.uoftctf.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-01-10 08:00:00 - 2026-01-12 08:00:00 UTC+8  
-    **比赛权重** : 33.49  
-    **赛事主办** : UofTCTF (https://ctftime.org/team/139261)  
-    **添加日历** : https://ctftime.org/event/2969.ics  
-    
-??? Quote "[New Year CTF 2026](http://ctf-spcs.mf.grsu.by/)"  
-    [![](https://ctftime.org/media/events/NY2026.jpg){ width="200" align=left }](http://ctf-spcs.mf.grsu.by/)  
-    **比赛名称** : [New Year CTF 2026](http://ctf-spcs.mf.grsu.by/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-01-10 17:00:00 - 2026-01-12 17:00:00 UTC+8  
-    **比赛权重** : 23.42  
-    **赛事主办** : Beavers0 (https://ctftime.org/team/269281)  
-    **添加日历** : https://ctftime.org/event/3021.ics  
-    
-??? Quote "[2026 Embedded Capture the Flag](https://ectf.mitre.org/)"  
-    [![](){ width="200" align=left }](https://ectf.mitre.org/)  
-    **比赛名称** : [2026 Embedded Capture the Flag](https://ectf.mitre.org/)  
-    **比赛形式** : Attack-Defense  
-    **比赛时间** : 2026-01-14 20:00:00 - 2026-04-15 20:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : ectfmitre (https://ctftime.org/team/87292)  
-    **添加日历** : https://ctftime.org/event/2916.ics  
-    
 ??? Quote "[SWIMMER OSINT CTF](https://twitter.com/DIVER_OSINT_CTF)"  
     [![](https://ctftime.org/media/events/circle-white-text.png){ width="200" align=left }](https://twitter.com/DIVER_OSINT_CTF)  
     **比赛名称** : [SWIMMER OSINT CTF](https://twitter.com/DIVER_OSINT_CTF)  
@@ -139,9 +110,9 @@ comments: true
     **赛事主办** : Blue Hens (https://ctftime.org/team/64660)  
     **添加日历** : https://ctftime.org/event/2943.ics  
     
-??? Quote "[PHONIX VIPER NOVA CTF#2](https://docs.google.com/forms/d/e/1FAIpQLSdKO7QZKdwNRuakt7WoYnb6Fzq1Jxrx6fI8r8gJtdXDFkJRRA/viewform)"  
-    [![](https://ctftime.org/media/events/0b084a17fe379613dd5be4f540c64249.png){ width="200" align=left }](https://docs.google.com/forms/d/e/1FAIpQLSdKO7QZKdwNRuakt7WoYnb6Fzq1Jxrx6fI8r8gJtdXDFkJRRA/viewform)  
-    **比赛名称** : [PHONIX VIPER NOVA CTF#2](https://docs.google.com/forms/d/e/1FAIpQLSdKO7QZKdwNRuakt7WoYnb6Fzq1Jxrx6fI8r8gJtdXDFkJRRA/viewform)  
+??? Quote "[PHONIX VIPER NOVA CTF#2](http://pwnctf.ro/)"  
+    [![](https://ctftime.org/media/events/0b084a17fe379613dd5be4f540c64249.png){ width="200" align=left }](http://pwnctf.ro/)  
+    **比赛名称** : [PHONIX VIPER NOVA CTF#2](http://pwnctf.ro/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-05-08 18:00:00 - 2026-05-11 01:00:00 UTC+8  
     **比赛权重** : 0.00  
