@@ -322,15 +322,6 @@ hide:
                 **其他说明** : furryCTF 2025是一款直至目前花销自理的，具有一定娱乐性质的，安徽师范大学计算机爱好者协会协办的网络与信息安全新神赛，初心是不为盈利，Hack for fun！比赛允许使用AI，我们鼓励选手能在比赛中合理的将AI当做辅助解题的工具。同时我们不限制搜索引擎的使用，除了因为确实也不好限制以外，我们鼓励选手能从比赛过程中通过思考与探索学到更多知识。比赛链接：furryCTF 2025正赛（比赛时间为2026年1月30日中午12点~2月2日中午12点，共72小时）： https://furryctf.com/games/2。官方交流群QQ:746480442。  
                 
         === "国外赛事"
-            ??? Quote "[MetaCTF January 2026 Flash CTF](https://mctf.io/jan2026)"  
-                [![](){ width="200" align=left }](https://mctf.io/jan2026)  
-                **比赛名称** : [MetaCTF January 2026 Flash CTF](https://mctf.io/jan2026)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-01-23 06:00:00 - 2026-01-23 09:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : MetaCTF (https://ctftime.org/team/72254)  
-                **添加日历** : https://ctftime.org/event/3079.ics  
-                
             ??? Quote "[0xL4ugh CTF v5](https://ctf.0xL4ugh.com/)"  
                 [![](){ width="200" align=left }](https://ctf.0xL4ugh.com/)  
                 **比赛名称** : [0xL4ugh CTF v5](https://ctf.0xL4ugh.com/)  
@@ -564,15 +555,6 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : EPIHACK (https://ctftime.org/team/419202)  
                 **添加日历** : https://ctftime.org/event/3076.ics  
-                
-            ??? Quote "[BearcatCTF 2026 - Setting Sail](https://bearcatctf.io/)"  
-                [![](https://ctftime.org/media/events/bearcat26_logo_black.png){ width="200" align=left }](https://bearcatctf.io/)  
-                **比赛名称** : [BearcatCTF 2026 - Setting Sail](https://bearcatctf.io/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-02-22 01:00:00 - 2026-02-23 01:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : Cyber@UC (https://ctftime.org/team/87727)  
-                **添加日历** : https://ctftime.org/event/3046.ics  
                 
             ??? Quote "[Srdnlen CTF 2026 Quals](https://ctf.srdnlen.it/)"  
                 [![](https://ctftime.org/media/events/e04b66f1d17c437f935e29d0fbe7beed_1.png){ width="200" align=left }](https://ctf.srdnlen.it/)  
@@ -865,6 +847,15 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : ectfmitre (https://ctftime.org/team/87292)  
                 **添加日历** : https://ctftime.org/event/2916.ics  
+                
+            ??? Quote "[MetaCTF January 2026 Flash CTF](https://mctf.io/jan2026)"  
+                [![](){ width="200" align=left }](https://mctf.io/jan2026)  
+                **比赛名称** : [MetaCTF January 2026 Flash CTF](https://mctf.io/jan2026)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-01-23 06:00:00 - 2026-01-23 09:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : MetaCTF (https://ctftime.org/team/72254)  
+                **添加日历** : https://ctftime.org/event/3079.ics  
                 
     === "*已经结束*"
         === "国内赛事"
