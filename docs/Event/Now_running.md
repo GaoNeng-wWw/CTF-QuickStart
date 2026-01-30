@@ -40,15 +40,6 @@ comments: true
     **赛事主办** : Hack for a Change (https://ctftime.org/team/419248)  
     **添加日历** : https://ctftime.org/event/3083.ics  
     
-??? Quote "[Jeanne d'Hack CTF 2026 | 3ème Édition](https://www.jeanne-hack-ctf.org/)"  
-    [![](https://ctftime.org/media/events/LogoAlt.png){ width="200" align=left }](https://www.jeanne-hack-ctf.org/)  
-    **比赛名称** : [Jeanne d'Hack CTF 2026 | 3ème Édition](https://www.jeanne-hack-ctf.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-01-30 17:00:00 - 2026-01-31 02:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : Jeanne d'Hack CTF (https://ctftime.org/team/283058)  
-    **添加日历** : https://ctftime.org/event/2941.ics  
-    
 ??? Quote "[ASCF CTF](https://ctf.ascf.space/)"  
     [![](https://ctftime.org/media/events/ascf1.png){ width="200" align=left }](https://ctf.ascf.space/)  
     **比赛名称** : [ASCF CTF](https://ctf.ascf.space/)  
@@ -66,4 +57,13 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : ATC CTF Team (https://ctftime.org/team/370333)  
     **添加日历** : https://ctftime.org/event/3068.ics  
+    
+??? Quote "[RCS CTF 26](https://encryptedge.in/)"  
+    [![](){ width="200" align=left }](https://encryptedge.in/)  
+    **比赛名称** : [RCS CTF 26](https://encryptedge.in/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-01-31 03:00:00 - 2026-01-31 22:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : EN¢R¥PT_EDGE€ (https://ctftime.org/team/273673)  
+    **添加日历** : https://ctftime.org/event/3114.ics  
     
