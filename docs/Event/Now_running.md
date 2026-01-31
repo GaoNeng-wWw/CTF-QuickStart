@@ -12,13 +12,6 @@ comments: true
     **比赛时间** : 2026年01月30日 12:00 - 2026年02月04日 12:00  
     **其他说明** : 主办方为furryCTF及POFP联合战队，严禁攻击平台或使用扫描器，设有多种奖品，详情请到QQ群查看；祝各位玩的开心~  
     
-??? Quote "UniCTF"  
-    **比赛名称** : [UniCTF](https://unictf.play.ctfplus.cn/)  
-    **比赛类型** : 线上Jeopardy解题赛  
-    **报名时间** : 2026年01月09日 10:09 - 2026年01月25日 09:59  
-    **比赛时间** : 2026年01月25日 10:00 - 2026年01月31日 10:00  
-    **其他说明** : 4人一组团队赛，需先在CTFPlus比赛大厅报名（https://www.ctfplus.cn）；奖项含社会赛道与新生赛道奖金及证书，单方向额外奖励。  
-    
 
 ## 国际赛事
 
@@ -66,4 +59,13 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : EN¢R¥PT_EDGE€ (https://ctftime.org/team/273673)  
     **添加日历** : https://ctftime.org/event/3114.ics  
+    
+??? Quote "[Eschaton CTF 2026 Quals](https://eschaton.mcsc.space/)"  
+    [![](){ width="200" align=left }](https://eschaton.mcsc.space/)  
+    **比赛名称** : [Eschaton CTF 2026 Quals](https://eschaton.mcsc.space/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-01-31 12:30:00 - 2026-02-01 12:30:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : Team MCSC (https://ctftime.org/team/418958)  
+    **添加日历** : https://ctftime.org/event/3072.ics  
     
