@@ -33,15 +33,6 @@ comments: true
     **赛事主办** : Hack for a Change (https://ctftime.org/team/419248)  
     **添加日历** : https://ctftime.org/event/3083.ics  
     
-??? Quote "[ASCF CTF](https://ctf.ascf.space/)"  
-    [![](https://ctftime.org/media/events/ascf1.png){ width="200" align=left }](https://ctf.ascf.space/)  
-    **比赛名称** : [ASCF CTF](https://ctf.ascf.space/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-01-30 17:00:00 - 2026-01-31 17:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : ASCF (https://ctftime.org/team/418960)  
-    **添加日历** : https://ctftime.org/event/3099.ics  
-    
 ??? Quote "[ATC Winter Vibes Community CTF 2.0](https://atcwintervibesctf.com/)"  
     [![](https://ctftime.org/media/events/ATC_Logo.PNG){ width="200" align=left }](https://atcwintervibesctf.com/)  
     **比赛名称** : [ATC Winter Vibes Community CTF 2.0](https://atcwintervibesctf.com/)  
@@ -68,4 +59,13 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : Team MCSC (https://ctftime.org/team/418958)  
     **添加日历** : https://ctftime.org/event/3072.ics  
+    
+??? Quote "[PascalCTF 2026](https://ctf.pascalctf.it/)"  
+    [![](https://ctftime.org/media/events/log.jpg){ width="200" align=left }](https://ctf.pascalctf.it/)  
+    **比赛名称** : [PascalCTF 2026](https://ctf.pascalctf.it/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-01-31 16:00:00 - 2026-02-01 16:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : Paolo (https://ctftime.org/team/263145)  
+    **添加日历** : https://ctftime.org/event/2767.ics  
     
