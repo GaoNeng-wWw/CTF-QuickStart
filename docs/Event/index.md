@@ -289,15 +289,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[CSCG 2026](https://play.cscg.live/)"  
-                [![](){ width="200" align=left }](https://play.cscg.live/)  
-                **比赛名称** : [CSCG 2026](https://play.cscg.live/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-03-02 01:00:00 - 2026-05-02 00:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : NFITS (https://ctftime.org/team/360674)  
-                **添加日历** : https://ctftime.org/event/2907.ics  
-                
             ??? Quote "[Axiom CTF 2026](https://ctf.4x10m.ru/)"  
                 [![](https://ctftime.org/media/events/Frame_1.png){ width="200" align=left }](https://ctf.4x10m.ru/)  
                 **比赛名称** : [Axiom CTF 2026](https://ctf.4x10m.ru/)  
@@ -715,6 +706,15 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : SK-CERT (https://ctftime.org/team/378916)  
                 **添加日历** : https://ctftime.org/event/3142.ics  
+                
+            ??? Quote "[CSCG 2026](https://play.cscg.live/)"  
+                [![](){ width="200" align=left }](https://play.cscg.live/)  
+                **比赛名称** : [CSCG 2026](https://play.cscg.live/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-03-02 01:00:00 - 2026-05-02 00:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : NFITS (https://ctftime.org/team/360674)  
+                **添加日历** : https://ctftime.org/event/2907.ics  
                 
     === "*已经结束*"
         === "国内赛事"
