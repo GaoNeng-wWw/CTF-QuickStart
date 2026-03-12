@@ -357,7 +357,7 @@ hide:
                 **比赛名称** : [Dark ctf](https://crack-on.live/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-03-14 14:30:00 - 2026-03-15 14:30:00 UTC+8  
-                **比赛权重** : 0.00  
+                **比赛权重** : 0  
                 **赛事主办** : Crakon  ctf (https://ctftime.org/team/426527)  
                 **添加日历** : https://ctftime.org/event/3182.ics  
                 
@@ -546,7 +546,7 @@ hide:
                 **比赛名称** : [GLOBAL CYBER GAMES: Women's Attack and Defense Edition @Wicked6](https://www.wicked6.com/tournament)  
                 **比赛形式** : Attack-Defense  
                 **比赛时间** : 2026-03-29 20:00:00 - 2026-03-30 05:00:00 UTC+8  
-                **比赛权重** : 0.00  
+                **比赛权重** : 0  
                 **赛事主办** : PlayCyber (https://ctftime.org/team/165788)  
                 **添加日历** : https://ctftime.org/event/3057.ics  
                 
@@ -567,6 +567,15 @@ hide:
                 **比赛权重** : 21.78  
                 **赛事主办** : IIT(BHU)CyberSec (https://ctftime.org/team/22546)  
                 **添加日历** : https://ctftime.org/event/3150.ics  
+                
+            ??? Quote "[VishwaCTF'2026](http://vishwactf.com/)"  
+                [![](https://ctftime.org/media/events/VishwaCTF_Logo_1_1_1.png){ width="200" align=left }](http://vishwactf.com/)  
+                **比赛名称** : [VishwaCTF'2026](http://vishwactf.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-04-03 23:00:00 - 2026-04-05 23:00:00 UTC+8  
+                **比赛权重** : 36.00  
+                **赛事主办** : CyberCellVIIT (https://ctftime.org/team/144677)  
+                **添加日历** : https://ctftime.org/event/3197.ics  
                 
             ??? Quote "[RITSEC CTF 2026](https://ctfd.ritsec.club/)"  
                 [![](https://ctftime.org/media/events/ritsec_ctf_2026_TP.png){ width="200" align=left }](https://ctfd.ritsec.club/)  
