@@ -289,15 +289,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[Insomni'hack 2026](https://insomnihack.ch/contest/)"  
-                [![](){ width="200" align=left }](https://insomnihack.ch/contest/)  
-                **比赛名称** : [Insomni'hack 2026](https://insomnihack.ch/contest/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-03-21 01:00:00 - 2026-03-21 12:00:00 UTC+8  
-                **比赛权重** : 24.14  
-                **赛事主办** : Insomni'hack Team (https://ctftime.org/team/104742)  
-                **添加日历** : https://ctftime.org/event/3146.ics  
-                
             ??? Quote "[Curiosity CTF 2026 [Postponed]](https://curiosityctf.xyz/)"  
                 [![](){ width="200" align=left }](https://curiosityctf.xyz/)  
                 **比赛名称** : [Curiosity CTF 2026 [Postponed]](https://curiosityctf.xyz/)  
@@ -1094,14 +1085,14 @@ hide:
                 **赛事主办** : Espilon (https://ctftime.org/team/423394)  
                 **添加日历** : https://ctftime.org/event/3179.ics  
                 
-            ??? Quote "[m0leCon CTF 2026](https://finals.m0lecon.it/)"  
-                [![](){ width="200" align=left }](https://finals.m0lecon.it/)  
-                **比赛名称** : [m0leCon CTF 2026](https://finals.m0lecon.it/)  
+            ??? Quote "[Insomni'hack 2026](https://insomnihack.ch/contest/)"  
+                [![](){ width="200" align=left }](https://insomnihack.ch/contest/)  
+                **比赛名称** : [Insomni'hack 2026](https://insomnihack.ch/contest/)  
                 **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-03-20 00:00:00 - 2026-03-21 00:00:00 UTC+8  
-                **比赛权重** : 75.00  
-                **赛事主办** : pwnthem0le (https://ctftime.org/team/60467)  
-                **添加日历** : https://ctftime.org/event/3196.ics  
+                **比赛时间** : 2026-03-21 01:00:00 - 2026-03-21 12:00:00 UTC+8  
+                **比赛权重** : 24.14  
+                **赛事主办** : Insomni'hack Team (https://ctftime.org/team/104742)  
+                **添加日历** : https://ctftime.org/event/3146.ics  
                 
     === "*已经结束*"
         === "国内赛事"
@@ -1127,6 +1118,15 @@ hide:
                 **其他说明** : 4人一组团队赛，需先在CTFPlus比赛大厅报名（https://www.ctfplus.cn）；奖项含社会赛道与新生赛道奖金及证书，单方向额外奖励。  
                 
         === "国外赛事"
+            ??? Quote "[m0leCon CTF 2026](https://finals.m0lecon.it/)"  
+                [![](){ width="200" align=left }](https://finals.m0lecon.it/)  
+                **比赛名称** : [m0leCon CTF 2026](https://finals.m0lecon.it/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-03-20 00:00:00 - 2026-03-21 00:00:00 UTC+8  
+                **比赛权重** : 75.00  
+                **赛事主办** : pwnthem0le (https://ctftime.org/team/60467)  
+                **添加日历** : https://ctftime.org/event/3196.ics  
+                
             ??? Quote "[CyberCup Indian Ocean 2026 – Team Edition | Step2](https://cybercup.ocoi.org/)"  
                 [![](https://ctftime.org/media/events/logo2_10.png){ width="200" align=left }](https://cybercup.ocoi.org/)  
                 **比赛名称** : [CyberCup Indian Ocean 2026 – Team Edition | Step2](https://cybercup.ocoi.org/)  
@@ -2017,15 +2017,6 @@ hide:
                 **比赛权重** : 25.00  
                 **赛事主办** : CyberSciOrganizers (https://ctftime.org/team/157536)  
                 **添加日历** : https://ctftime.org/event/2909.ics  
-                
-            ??? Quote "[CTFZone 2025 Final](https://ctfz.zone/)"  
-                [![](https://ctftime.org/media/events/aa86f826480a008ed91d88a917a0c33b_1.png){ width="200" align=left }](https://ctfz.zone/)  
-                **比赛名称** : [CTFZone 2025 Final](https://ctfz.zone/)  
-                **比赛形式** : Attack-Defense  
-                **比赛时间** : 2025-11-22 17:00:00 - 2025-11-23 01:00:00 UTC+8  
-                **比赛权重** : 96.90  
-                **赛事主办** : BIZone (https://ctftime.org/team/32190)  
-                **添加日历** : https://ctftime.org/event/2972.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
