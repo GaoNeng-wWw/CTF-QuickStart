@@ -5,7 +5,16 @@ comments: true
 
 ## 国内赛事
 
-
+??? Quote "PolarisCTF 2026"  
+    **比赛名称** : [PolarisCTF 2026](https://www.ctfplus.cn/competition/hall)  
+    **比赛时间** : 2026年03月28日 09:00 - 2026年03月30日 09:00  
+    **比赛详细** : 星盟安全团队举办的第一届招新赛，由 CTF+ 平台承办。QQ群：1083975295  
+    
+??? Quote "NepCTF 2026"  
+    **比赛名称** : [NepCTF 2026](/isPrepare)  
+    **比赛时间** : 2026年07月10日 19:00 - 2026年07月12日 19:00  
+    **比赛详细** : 筹备中  
+    
 
 ## 国际赛事
 
@@ -215,6 +224,15 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : Dreamhack (https://ctftime.org/team/367894)  
     **添加日历** : https://ctftime.org/event/3026.ics  
+    
+??? Quote "[Pàlcam Cybergames 2026](https://palcamcg2026.soterctf.com/)"  
+    [![](https://ctftime.org/media/events/palcamLogo.png){ width="200" align=left }](https://palcamcg2026.soterctf.com/)  
+    **比赛名称** : [Pàlcam Cybergames 2026](https://palcamcg2026.soterctf.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-04-10 18:00:00 - 2026-04-12 07:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : Pàlcam ASIX (https://ctftime.org/team/428952)  
+    **添加日历** : https://ctftime.org/event/3211.ics  
     
 ??? Quote "[DawgCTF 2026](https://metactf.com/join/dawgctf26)"  
     [![](https://ctftime.org/media/events/dawgsec_shield-ctftime_2_1.png){ width="200" align=left }](https://metactf.com/join/dawgctf26)  
