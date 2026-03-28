@@ -10,6 +10,11 @@ comments: true
     **比赛时间** : 2026年03月28日 09:00 - 2026年03月30日 09:00  
     **比赛详细** : 星盟安全团队举办的第一届招新赛，由 CTF+ 平台承办。QQ群：1083975295  
     
+??? Quote "【Solar】3月应急响应公益月赛"  
+    **比赛名称** : [【Solar】3月应急响应公益月赛](https://mp.weixin.qq.com/s/S5SIYuTNafxzdRMdrNvfAA)  
+    **比赛时间** : 2026年03月28日 10:00 - 2026年03月28日 18:00  
+    **比赛详细** : QQ群：713192205；比赛平台/报名地址：https://www.qsnctf.com/#/login。报名时间：2026年03月23日15:00-2026年03月28日09:59。每月比赛时间为月末最后一个周六上午10:00，报名时间为开始前两天。题目范围：综合靶场、Windows独立靶场、Linux独立靶场、日志审计、数据库、逆向分析、流量分析。  
+    
 
 ## 国际赛事
 
@@ -75,4 +80,13 @@ comments: true
     **比赛权重** : 62.00  
     **赛事主办** : CODEGATE (https://ctftime.org/team/39352)  
     **添加日历** : https://ctftime.org/event/3131.ics  
+    
+??? Quote "[NovruzCTF 2026](https://canyouhack.org/)"  
+    [![](https://ctftime.org/media/events/IMG_4954.jpeg){ width="200" align=left }](https://canyouhack.org/)  
+    **比赛名称** : [NovruzCTF 2026](https://canyouhack.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-03-28 13:00:00 - 2026-03-29 13:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : QarabagTeam (https://ctftime.org/team/186802)  
+    **添加日历** : https://ctftime.org/event/3200.ics  
     
