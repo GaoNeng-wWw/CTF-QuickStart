@@ -40,15 +40,6 @@ comments: true
     **赛事主办** : NFITS (https://ctftime.org/team/360674)  
     **添加日历** : https://ctftime.org/event/2907.ics  
     
-??? Quote "[TexSAW 2026](https://texsaw.org/)"  
-    [![](){ width="200" align=left }](https://texsaw.org/)  
-    **比赛名称** : [TexSAW 2026](https://texsaw.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-03-27 20:00:00 - 2026-03-29 20:00:00 UTC+8  
-    **比赛权重** : 41.59  
-    **赛事主办** : CSG (https://ctftime.org/team/333)  
-    **添加日历** : https://ctftime.org/event/3130.ics  
-    
 ??? Quote "[KalmarCTF 2026](https://kalmarc.tf/)"  
     [![](https://ctftime.org/media/events/kalmar-logo_1.png){ width="200" align=left }](https://kalmarc.tf/)  
     **比赛名称** : [KalmarCTF 2026](https://kalmarc.tf/)  
@@ -57,15 +48,6 @@ comments: true
     **比赛权重** : 49.97  
     **赛事主办** : kalmarunionen (https://ctftime.org/team/114856)  
     **添加日历** : https://ctftime.org/event/2983.ics  
-    
-??? Quote "[VolgaCTF 2026 Qualifier](https://q.2026.volgactf.ru/)"  
-    [![](https://ctftime.org/media/events/logo-social-yellow_18.png){ width="200" align=left }](https://q.2026.volgactf.ru/)  
-    **比赛名称** : [VolgaCTF 2026 Qualifier](https://q.2026.volgactf.ru/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-03-28 21:00:00 - 2026-03-29 21:00:00 UTC+8  
-    **比赛权重** : 38.67  
-    **赛事主办** : VolgaCTF.org (https://ctftime.org/team/27094)  
-    **添加日历** : https://ctftime.org/event/3045.ics  
     
 ??? Quote "[MythX: An Endgame Protocol CTF](https://unstop.com/o/eZQ9xw6?lb=RatXyLX4)"  
     [![](https://ctftime.org/media/events/mythx_LOGO.png){ width="200" align=left }](https://unstop.com/o/eZQ9xw6?lb=RatXyLX4)  
@@ -76,12 +58,12 @@ comments: true
     **赛事主办** : MythX (https://ctftime.org/team/429696)  
     **添加日历** : https://ctftime.org/event/3223.ics  
     
-??? Quote "[CU school CTF 2026](https://cu.ru/olympiad/events/cu-school-ctf)"  
-    [![](https://ctftime.org/media/events/cu_school_ctf.png){ width="200" align=left }](https://cu.ru/olympiad/events/cu-school-ctf)  
-    **比赛名称** : [CU school CTF 2026](https://cu.ru/olympiad/events/cu-school-ctf)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-03-29 15:00:00 - 2026-03-29 23:00:00 UTC+8  
+??? Quote "[GLOBAL CYBER GAMES: Women's Attack and Defense Edition @Wicked6](https://www.wicked6.com/tournament)"  
+    [![](){ width="200" align=left }](https://www.wicked6.com/tournament)  
+    **比赛名称** : [GLOBAL CYBER GAMES: Women's Attack and Defense Edition @Wicked6](https://www.wicked6.com/tournament)  
+    **比赛形式** : Attack-Defense  
+    **比赛时间** : 2026-03-29 20:00:00 - 2026-03-30 05:00:00 UTC+8  
     **比赛权重** : 0  
-    **赛事主办** : CUT (https://ctftime.org/team/358931)  
-    **添加日历** : https://ctftime.org/event/3155.ics  
+    **赛事主办** : PlayCyber (https://ctftime.org/team/165788)  
+    **添加日历** : https://ctftime.org/event/3057.ics  
     
