@@ -60,24 +60,6 @@ hide:
             **比赛详细** : 筹备中  
                 
     === "国外比赛"
-        ??? Quote "[THE UNI6CTF 1.0](https://uni6ctf.online/)"  
-            [![](https://ctftime.org/media/events/uni6ctf_1.0_.jpeg){ width="200" align=left }](https://uni6ctf.online/)  
-            **比赛名称** : [THE UNI6CTF 1.0](https://uni6ctf.online/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-04-04 11:30:00 - 2026-04-04 17:30:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : IN-0x0 (https://ctftime.org/team/423353)  
-            **添加日历** : https://ctftime.org/event/3226.ics  
-            
-        ??? Quote "[CRACK-IN 2.0](https://www.crackin.tech/)"  
-            [![](https://ctftime.org/media/events/logoo_1.png){ width="200" align=left }](https://www.crackin.tech/)  
-            **比赛名称** : [CRACK-IN 2.0](https://www.crackin.tech/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-04-04 12:30:00 - 2026-04-04 18:30:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : Cyber Hive (https://ctftime.org/team/428945)  
-            **添加日历** : https://ctftime.org/event/3212.ics  
-            
         ??? Quote "[SillyCTF 2](https://sillyctf.psuccso.org/)"  
             [![](https://ctftime.org/media/events/SillyCTF2logo.png){ width="200" align=left }](https://sillyctf.psuccso.org/)  
             **比赛名称** : [SillyCTF 2](https://sillyctf.psuccso.org/)  
@@ -95,6 +77,24 @@ hide:
             **比赛权重** : 0  
             **赛事主办** : Triada (https://ctftime.org/team/303057)  
             **添加日历** : https://ctftime.org/event/3187.ics  
+            
+        ??? Quote "[Dreamhack Invitational 2026](https://dreamhack.io/)"  
+            [![](){ width="200" align=left }](https://dreamhack.io/)  
+            **比赛名称** : [Dreamhack Invitational 2026](https://dreamhack.io/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-04-07 08:00:00 - 2026-04-07 23:00:00 UTC+8  
+            **比赛权重** : 0  
+            **赛事主办** : Dreamhack (https://ctftime.org/team/367894)  
+            **添加日历** : https://ctftime.org/event/3026.ics  
+            
+        ??? Quote "[Pàlcam Cybergames 2026](https://palcamcg2026.soterctf.com/)"  
+            [![](https://ctftime.org/media/events/palcamLogo.png){ width="200" align=left }](https://palcamcg2026.soterctf.com/)  
+            **比赛名称** : [Pàlcam Cybergames 2026](https://palcamcg2026.soterctf.com/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-04-10 18:00:00 - 2026-04-12 07:00:00 UTC+8  
+            **比赛权重** : 0  
+            **赛事主办** : Pàlcam ASIX (https://ctftime.org/team/428952)  
+            **添加日历** : https://ctftime.org/event/3211.ics  
             
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](./Event/)
