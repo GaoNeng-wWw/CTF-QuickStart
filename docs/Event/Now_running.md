@@ -27,15 +27,6 @@ comments: true
     **赛事主办** : NFITS (https://ctftime.org/team/360674)  
     **添加日历** : https://ctftime.org/event/2907.ics  
     
-??? Quote "[CPCTF 2026](https://cpctf.space/)"  
-    [![](https://ctftime.org/media/events/cpctf_logo_1_1.png){ width="200" align=left }](https://cpctf.space/)  
-    **比赛名称** : [CPCTF 2026](https://cpctf.space/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-04-17 19:00:00 - 2026-04-19 19:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : traP (https://ctftime.org/team/62510)  
-    **添加日历** : https://ctftime.org/event/3077.ics  
-    
 ??? Quote "[CTF@CIT 2026](https://ctf.cyber-cit.club/)"  
     [![](https://ctftime.org/media/events/CTF-CIT-ctftime_3.png){ width="200" align=left }](https://ctf.cyber-cit.club/)  
     **比赛名称** : [CTF@CIT 2026](https://ctf.cyber-cit.club/)  
@@ -53,15 +44,6 @@ comments: true
     **比赛权重** : 66.00  
     **赛事主办** : b01lers (https://ctftime.org/team/11464)  
     **添加日历** : https://ctftime.org/event/3153.ics  
-    
-??? Quote "[pingCTF 2026](http://ctf.knping.pl/)"  
-    [![](https://ctftime.org/media/events/logo_121.png){ width="200" align=left }](http://ctf.knping.pl/)  
-    **比赛名称** : [pingCTF 2026](http://ctf.knping.pl/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-04-18 18:00:00 - 2026-04-19 18:00:00 UTC+8  
-    **比赛权重** : 46.20  
-    **赛事主办** : pingCTF (https://ctftime.org/team/147266)  
-    **添加日历** : https://ctftime.org/event/3147.ics  
     
 ??? Quote "[K!nd4SUS CTF 2026](https://ctf.k1nd4sus.it/)"  
     [![](https://ctftime.org/media/events/81649886.png){ width="200" align=left }](https://ctf.k1nd4sus.it/)  
