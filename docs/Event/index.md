@@ -905,7 +905,7 @@ hide:
                 **比赛名称** : [UniVsThreats 26 Finals CTF]()  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-05-02 16:00:00 - 2026-05-03 23:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 25.00  
                 **赛事主办** : UVT-CTF (https://ctftime.org/team/214520)  
                 **添加日历** : https://ctftime.org/event/3244.ics  
                 
@@ -1535,7 +1535,7 @@ hide:
                 **比赛名称** : [PsychCTF 2026](https://psychctf.xyz/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-03-14 02:30:00 - 2026-03-16 02:30:00 UTC+8  
-                **比赛权重** : 24.50  
+                **比赛权重** : 24.51  
                 **赛事主办** : SAIC_IITMandi (https://ctftime.org/team/251023)  
                 **添加日历** : https://ctftime.org/event/3166.ics  
                 
