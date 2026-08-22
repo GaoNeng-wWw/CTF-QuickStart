@@ -298,9 +298,9 @@ hide:
                 **赛事主办** : PECAN+ (https://ctftime.org/team/250009)  
                 **添加日历** : https://ctftime.org/event/3411.ics  
                 
-            ??? Quote "[COMPFEST CTF 2026](https://mirror-ctf.compfest.id/)"  
+            ??? Quote "[COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION)](https://mirror-ctf.compfest.id/)"  
                 [![](){ width="200" align=left }](https://mirror-ctf.compfest.id/)  
-                **比赛名称** : [COMPFEST CTF 2026](https://mirror-ctf.compfest.id/)  
+                **比赛名称** : [COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION)](https://mirror-ctf.compfest.id/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-08-29 08:00:00 - 2026-08-30 08:00:00 UTC+8  
                 **比赛权重** : 96.00  
@@ -725,15 +725,6 @@ hide:
                 **赛事主办** : Brunnerne (https://ctftime.org/team/155032)  
                 **添加日历** : https://ctftime.org/event/3065.ics  
                 
-            ??? Quote "[PwnSec CTF 2026 [postponed]](https://ctf.pwnsec.team/)"  
-                [![](https://ctftime.org/media/events/pwnsec_square_gradient_512.png){ width="200" align=left }](https://ctf.pwnsec.team/)  
-                **比赛名称** : [PwnSec CTF 2026 [postponed]](https://ctf.pwnsec.team/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-08-21 22:00:00 - 2026-08-22 22:00:00 UTC+8  
-                **比赛权重** : 33.89  
-                **赛事主办** : PwnSec (https://ctftime.org/team/28797)  
-                **添加日历** : https://ctftime.org/event/3159.ics  
-                
             ??? Quote "[z0d1ak CTF Qualifiers](https://ctf.z0d1ak.org/)"  
                 [![](https://ctftime.org/media/events/Zodiak_CTF_Logo.png){ width="200" align=left }](https://ctf.z0d1ak.org/)  
                 **比赛名称** : [z0d1ak CTF Qualifiers](https://ctf.z0d1ak.org/)  
@@ -786,6 +777,15 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : Ex0rcists (https://ctftime.org/team/311156)  
                 **添加日历** : https://ctftime.org/event/3397.ics  
+                
+            ??? Quote "[PwnSec CTF 2026 [postponed]](https://ctf.pwnsec.team/)"  
+                [![](https://ctftime.org/media/events/pwnsec_square_gradient_512.png){ width="200" align=left }](https://ctf.pwnsec.team/)  
+                **比赛名称** : [PwnSec CTF 2026 [postponed]](https://ctf.pwnsec.team/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-08-21 22:00:00 - 2026-08-22 22:00:00 UTC+8  
+                **比赛权重** : 33.89  
+                **赛事主办** : PwnSec (https://ctftime.org/team/28797)  
+                **添加日历** : https://ctftime.org/event/3159.ics  
                 
             ??? Quote "[CTFZone 2026](https://board.ctfz.zone/)"  
                 [![](https://ctftime.org/media/events/logo_ctf.png){ width="200" align=left }](https://board.ctfz.zone/)  
@@ -1668,15 +1668,6 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : Droidex (https://ctftime.org/team/430693)  
                 **添加日历** : https://ctftime.org/event/3241.ics  
-                
-            ??? Quote "[UniVsThreats 26 Finals CTF]()"  
-                [![](https://ctftime.org/media/events/8214e0b3661f119e06c811dd7538cc0d.jpg){ width="200" align=left }]()  
-                **比赛名称** : [UniVsThreats 26 Finals CTF]()  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-05-02 16:00:00 - 2026-05-03 23:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : UVT-CTF (https://ctftime.org/team/214520)  
-                **添加日历** : https://ctftime.org/event/3244.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
