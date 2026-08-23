@@ -12,6 +12,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[PECAN+ CTF 2026](https://pecanplus.org/)"  
+    [![](https://ctftime.org/media/events/pecanlogo_1.png){ width="200" align=left }](https://pecanplus.org/)  
+    **比赛名称** : [PECAN+ CTF 2026](https://pecanplus.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-23 09:00:00 - 2026-08-23 13:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : PECAN+ (https://ctftime.org/team/250009)  
+    **添加日历** : https://ctftime.org/event/3411.ics  
+    
 ??? Quote "[$N1PH€RS 3.0 CTF](https://stjctf2026.tamilctf.com/)"  
     [![](https://ctftime.org/media/events/Ex0rcists_logo.jpg){ width="200" align=left }](https://stjctf2026.tamilctf.com/)  
     **比赛名称** : [$N1PH€RS 3.0 CTF](https://stjctf2026.tamilctf.com/)  
@@ -29,6 +38,15 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
     **添加日历** : https://ctftime.org/event/3379.ics  
+    
+??? Quote "[z0d1ak CTF Qualifiers](https://ctf.z0d1ak.org/)"  
+    [![](https://ctftime.org/media/events/Zodiak_CTF_Logo.png){ width="200" align=left }](https://ctf.z0d1ak.org/)  
+    **比赛名称** : [z0d1ak CTF Qualifiers](https://ctf.z0d1ak.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-22 00:00:00 - 2026-08-23 12:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : z0d1ak (https://ctftime.org/team/373452)  
+    **添加日历** : https://ctftime.org/event/3370.ics  
     
 ??? Quote "[PwnSec CTF 2026 [postponed]](https://ctf.pwnsec.team/)"  
     [![](https://ctftime.org/media/events/pwnsec_square_gradient_512.png){ width="200" align=left }](https://ctf.pwnsec.team/)  
@@ -893,22 +911,4 @@ comments: true
     **比赛权重** : 56.25  
     **赛事主办** : PWr Synt@x Err0r (https://ctftime.org/team/88205)  
     **添加日历** : https://ctftime.org/event/3137.ics  
-    
-??? Quote "[PHONIX VIPER NOVA CTF#2](http://pwnctf.ro/)"  
-    [![](https://ctftime.org/media/events/0b084a17fe379613dd5be4f540c64249.png){ width="200" align=left }](http://pwnctf.ro/)  
-    **比赛名称** : [PHONIX VIPER NOVA CTF#2](http://pwnctf.ro/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-08 18:00:00 - 2026-05-11 01:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : PH03N1X V1P3R N0V4 CTF (https://ctftime.org/team/395369)  
-    **添加日历** : https://ctftime.org/event/3018.ics  
-    
-??? Quote "[THCon 2K26 CTF](https://thcon.party/)"  
-    [![](https://ctftime.org/media/events/logo_123.png){ width="200" align=left }](https://thcon.party/)  
-    **比赛名称** : [THCon 2K26 CTF](https://thcon.party/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-07 19:00:00 - 2026-05-08 19:00:00 UTC+8  
-    **比赛权重** : 34.67  
-    **赛事主办** : pony7 (https://ctftime.org/team/20769)  
-    **添加日历** : https://ctftime.org/event/3186.ics  
     
