@@ -289,15 +289,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[PwnSec CTF 2026](https://pwnsec.ctf.ae/)"  
-                [![](https://ctftime.org/media/events/pwnsec_square_gradient_512.png){ width="200" align=left }](https://pwnsec.ctf.ae/)  
-                **比赛名称** : [PwnSec CTF 2026](https://pwnsec.ctf.ae/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-09-12 22:00:00 - 2026-09-13 22:00:00 UTC+8  
-                **比赛权重** : 33.89  
-                **赛事主办** : PwnSec (https://ctftime.org/team/28797)  
-                **添加日历** : https://ctftime.org/event/3159.ics  
-                
             ??? Quote "[VolgaCTF 2026 Final](https://volgactf.ru/en/volgactf-2026/final/)"  
                 [![](https://ctftime.org/media/events/logo-social-yellow_19.png){ width="200" align=left }](https://volgactf.ru/en/volgactf-2026/final/)  
                 **比赛名称** : [VolgaCTF 2026 Final](https://volgactf.ru/en/volgactf-2026/final/)  
@@ -568,15 +559,6 @@ hide:
                 **赛事主办** : H7Tex (https://ctftime.org/team/281844)  
                 **添加日历** : https://ctftime.org/event/3094.ics  
                 
-            ??? Quote "[Sudocrypt v16.0](https://sudocrypt.com/)"  
-                [![](){ width="200" align=left }](https://sudocrypt.com/)  
-                **比赛名称** : [Sudocrypt v16.0](https://sudocrypt.com/)  
-                **比赛形式** : Hack quest  
-                **比赛时间** : 2026-10-27 11:30:00 - 2026-10-28 23:30:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : exunclan (https://ctftime.org/team/83987)  
-                **添加日历** : https://ctftime.org/event/3404.ics  
-                
             ??? Quote "[Hacker's Gambit 2026 (Round 2 – Grand Finale)](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)"  
                 [![](https://ctftime.org/media/events/tanmay_2.png){ width="200" align=left }](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)  
                 **比赛名称** : [Hacker's Gambit 2026 (Round 2 – Grand Finale)](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)  
@@ -733,6 +715,15 @@ hide:
                 **比赛权重** : 24.83  
                 **赛事主办** : K17 (https://ctftime.org/team/17058)  
                 **添加日历** : https://ctftime.org/event/3145.ics  
+                
+            ??? Quote "[PwnSec CTF 2026](https://pwnsec.ctf.ae/)"  
+                [![](https://ctftime.org/media/events/pwnsec_square_gradient_512.png){ width="200" align=left }](https://pwnsec.ctf.ae/)  
+                **比赛名称** : [PwnSec CTF 2026](https://pwnsec.ctf.ae/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-09-12 22:00:00 - 2026-09-13 22:00:00 UTC+8  
+                **比赛权重** : 33.89  
+                **赛事主办** : PwnSec (https://ctftime.org/team/28797)  
+                **添加日历** : https://ctftime.org/event/3159.ics  
                 
     === "*已经结束*"
         === "国内赛事"
