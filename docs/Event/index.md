@@ -586,6 +586,15 @@ hide:
                 **赛事主办** : polygl0ts (https://ctftime.org/team/53791)  
                 **添加日历** : https://ctftime.org/event/3474.ics  
                 
+            ??? Quote "[L3m0n CTF 2026 (Quals)](https://l3m0nctf.xyz/)"  
+                [![](https://ctftime.org/media/events/icon-512.png){ width="200" align=left }](https://l3m0nctf.xyz/)  
+                **比赛名称** : [L3m0n CTF 2026 (Quals)](https://l3m0nctf.xyz/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-11-28 12:30:00 - 2026-11-29 00:30:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : L3m0n CTF (https://ctftime.org/team/417627)  
+                **添加日历** : https://ctftime.org/event/3485.ics  
+                
             ??? Quote "[BlackHat MEA CTF Final 2026](https://blackhatmea.com/capture-the-flag)"  
                 [![](https://ctftime.org/media/events/9f419586e0dedbff0130e6f487ddc54c_1.png){ width="200" align=left }](https://blackhatmea.com/capture-the-flag)  
                 **比赛名称** : [BlackHat MEA CTF Final 2026](https://blackhatmea.com/capture-the-flag)  
@@ -689,6 +698,10 @@ hide:
                 **赛事主办** : BUG PWN (https://ctftime.org/team/182428)  
                 **添加日历** : https://ctftime.org/event/3462.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[SAS CTF 2026 Finals](https://ctf.thesascon.com/)"  
                 [![](https://ctftime.org/media/events/SAS26_temp_1.png){ width="200" align=left }](https://ctf.thesascon.com/)  
                 **比赛名称** : [SAS CTF 2026 Finals](https://ctf.thesascon.com/)  
@@ -698,10 +711,6 @@ hide:
                 **赛事主办** : SAS CREW (https://ctftime.org/team/283057)  
                 **添加日历** : https://ctftime.org/event/3409.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[DEADFACE CTF 2026](https://ctf.deadface.io/)"  
                 [![](https://ctftime.org/media/events/logo_deadface_ctf_2026.png){ width="200" align=left }](https://ctf.deadface.io/)  
                 **比赛名称** : [DEADFACE CTF 2026](https://ctf.deadface.io/)  
@@ -1592,15 +1601,6 @@ hide:
                 **比赛权重** : 79.25  
                 **赛事主办** : Project Sekai (https://ctftime.org/team/169557)  
                 **添加日历** : https://ctftime.org/event/3113.ics  
-                
-            ??? Quote "[Grey Cat The Flag 2026 Finals](https://ctf.nusgreyhats.org/)"  
-                [![](){ width="200" align=left }](https://ctf.nusgreyhats.org/)  
-                **比赛名称** : [Grey Cat The Flag 2026 Finals](https://ctf.nusgreyhats.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-06-27 10:00:00 - 2026-06-28 10:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : NUS GreyHats (https://ctftime.org/team/16740)  
-                **添加日历** : https://ctftime.org/event/3173.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
