@@ -8,6 +8,15 @@ comments: true
 
 
 ## 国际赛事
+??? Quote "[Platypwn 2026](https://platypwn.ctf.platypwnies.de/)"  
+    [![](https://ctftime.org/media/events/platypwnies-512_1_1.png){ width="200" align=left }](https://platypwn.ctf.platypwnies.de/)  
+    **比赛名称** : [Platypwn 2026](https://platypwn.ctf.platypwnies.de/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-11-14 01:00:00 - 2026-11-14 19:00:00 UTC+8  
+    **比赛权重** : 37.00  
+    **赛事主办** : Platypwnies (https://ctftime.org/team/112550)  
+    **添加日历** : https://ctftime.org/event/3082.ics  
+    
 ??? Quote "[TVX CTF 2026](https://ctf-techvisions.com/)"  
     [![](https://ctftime.org/media/events/photo_2026-10-17_18-01-04.jpg){ width="200" align=left }](https://ctf-techvisions.com/)  
     **比赛名称** : [TVX CTF 2026](https://ctf-techvisions.com/)  
@@ -16,6 +25,15 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : Tech Visions (https://ctftime.org/team/452398)  
     **添加日历** : https://ctftime.org/event/3486.ics  
+    
+??? Quote "[CSAW CTF Final Round 2026](https://ctf.csaw.io/)"  
+    [![](https://ctftime.org/media/events/csawlogo_2.png){ width="200" align=left }](https://ctf.csaw.io/)  
+    **比赛名称** : [CSAW CTF Final Round 2026](https://ctf.csaw.io/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-11-13 01:00:00 - 2026-11-14 13:00:00 UTC+8  
+    **比赛权重** : 1.00  
+    **赛事主办** : NYUSEC (https://ctftime.org/team/439)  
+    **添加日历** : https://ctftime.org/event/3410.ics  
     
 ??? Quote "[Mimic](https://ctf.rarebytehub.com/events/mimic)"  
     [![](https://ctftime.org/media/events/rare-byte-hub_1.png){ width="200" align=left }](https://ctf.rarebytehub.com/events/mimic)  
@@ -889,22 +907,4 @@ comments: true
     **比赛权重** : 84.79  
     **赛事主办** : LIT CTF (https://ctftime.org/team/157660)  
     **添加日历** : https://ctftime.org/event/3373.ics  
-    
-??? Quote "[Universal CTF](https://ctf.uctf.io/)"  
-    [![](https://ctftime.org/media/events/4d7c5705-750e-4d80-a247-a8c135096de0-Photoroom.png){ width="200" align=left }](https://ctf.uctf.io/)  
-    **比赛名称** : [Universal CTF](https://ctf.uctf.io/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-08-01 15:00:00 - 2026-08-02 23:00:00 UTC+8  
-    **比赛权重** : 25.00  
-    **赛事主办** : U-CTF (https://ctftime.org/team/430827)  
-    **添加日历** : https://ctftime.org/event/3237.ics  
-    
-??? Quote "[VuwCTF 2026](https://2026.vuwctf.com/)"  
-    [![](https://ctftime.org/media/events/moose6.png){ width="200" align=left }](https://2026.vuwctf.com/)  
-    **比赛名称** : [VuwCTF 2026](https://2026.vuwctf.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-08-01 06:00:00 - 2026-08-02 13:00:00 UTC+8  
-    **比赛权重** : 25.00  
-    **赛事主办** : VuwCTF (https://ctftime.org/team/378359)  
-    **添加日历** : https://ctftime.org/event/3311.ics  
     
